@@ -5,7 +5,6 @@ tags:
 - Jobs
 - Healer
 ---
-[Back](_index.md)
 ## Job Resources
 - [Sage](notes/Sage.md)
 - [Scholar](notes/Scholar.md)

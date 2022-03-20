@@ -5,7 +5,6 @@ tags:
 - Jobs
 - Melee
 ---
-[Back](_index.md)
 ## Job Resources
 - [Reaper](notes/Reaper.md)
 - [Monk](notes/Monk.md)

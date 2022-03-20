@@ -5,7 +5,6 @@ tags:
 - Jobs
 - Ranged
 ---
-[Back](_index.md)
 ## Job Resources
 - [Dancer](notes/Dancer.md)
 - [Bard](notes/Bard.md)

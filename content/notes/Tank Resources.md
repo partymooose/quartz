@@ -5,7 +5,6 @@ tags:
 - Jobs
 - Tank
 ---
-[Back](_index.md)
 ## Jobs
 - [Dark Knight](Dark%20Knight)
 - [Gunbreaker](Gunbreaker)

@@ -18,7 +18,7 @@ Gain when group is heavy in 15s buffs and you can clip Slipstream under the buff
 
 ### Titan (General) Opener
 {{< rawhtml >}}
-<img src="/notes/images/smn_ew_opener.png" width="100%">
+<img src="/notes/images/smn_ew_opener.png" width="150%" align="left">
 {{< /rawhtml >}}
 ![Titan Opener](/notes/images/smn_ew_opener.png)
 

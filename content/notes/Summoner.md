@@ -6,6 +6,7 @@ tags:
 - Caster
 - Summoner
 ---
+[Back](notes/Caster%20Resources.md)
 ## Openers
 ### Garuda Opener
 ![Garuda Opener](/notes/images/smn_ew_fast_garuda.png)
@@ -22,9 +23,10 @@ All builds are viable and competitive with each other. Crit builds are better in
 ### General builds 
 {{< rawhtml >}}
 <iframe
-	height="720"
-	width="1280"
-	title="2.46 w/ SpS melds" 
+	height="1000"
+	width="1000"
+	title="2.46 w/ SpS melds"
+	frameborder="0"
 	src="https://etro.gg/embed/gearset/840a5088-23fa-49c5-a12a-3731ca55b4a6"
 		></iframe>
 {{< /rawhtml >}} 
@@ -32,8 +34,8 @@ All builds are viable and competitive with each other. Crit builds are better in
 {{< rawhtml >}}
 
 <iframe 
-		width="1280" 
-		height="720" 
+		width="1000" 
+		height="1000" 
 		src="https://etro.gg/embed/gearset/79f43ffa-6b37-417c-bc24-8b36ea303ee8" 
 		title="2.48 w/o SpS melds" 
 		frameborder="0" 
@@ -47,8 +49,8 @@ All builds are viable and competitive with each other. Crit builds are better in
 {{< rawhtml >}}
 
 <iframe 
-		width="1280" 
-		height="720" 
+		width="1000" 
+		height="1000" 
 		src="https://etro.gg/embed/gearset/0dc3c04b-07bd-43c5-b07d-e196e93aa29f" 
 		title="2.20 Speed w/ sps melds" 
 		frameborder="0" 
@@ -60,8 +62,8 @@ All builds are viable and competitive with each other. Crit builds are better in
 {{< rawhtml >}}
 
 <iframe 
-		width="1280" 
-		height="720" 
+		width="1000" 
+		height="1000" 
 		src="https://etro.gg/embed/gearset/dd37ae1d-6341-4fd0-bc46-d406db34562d" 
 		title="2.25 w/o SpS melds" 
 		frameborder="0" 

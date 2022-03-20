@@ -20,6 +20,13 @@ title: "Home Page"
 ### Gear resources
 - [Raid Team gear planning sheet](https://docs.google.com/spreadsheets/d/1SduPOWjmMMq0v6ve52C8xygsJS13auH_k_8uh6X1FkY/edit?usp=sharing)
 
+## Combat Jobs
+- [Tank Resources](notes/Tank%20Resources.md)
+- [Healer Resources](notes/Healer%20Resources.md)
+- [Melee Resources](notes/Melee%20Resources.md)
+- [Caster Resources](notes/Caster%20Resources.md)
+- [Ranged Resources](notes/Ranged%20Resources.md)
+
 ## Crafting & Gathering
 ### Crafting
 - [Teamcraft Team invite](https://ffxivteamcraft.com/teams/invite/eyBjfgBIVyvsmvKwLTKI)

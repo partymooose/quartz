@@ -7,15 +7,15 @@
 }
 
 h1, h2, h3, h4, h5, h6, ol, ul, thead {
-  font-family: Inter;
-  color: var(--dark);
+  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
+  color: #E5B567;
   font-weight: revert;
   margin: revert;
   padding: revert;
 }
 
 p, ul, text {
-  font-family: 'Source Sans Pro', sans-serif;
+  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
   color: var(--gray);
   fill: var(--gray);
   font-weight: revert;
@@ -45,7 +45,7 @@ p, ul, text {
   }
 
   & > li::marker, & > li > ol > li::marker {
-    font-family: Source Sans Pro;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
     font-weight: 700;
   }
 }
@@ -75,7 +75,7 @@ sup {
 }
 
 p, tbody, li {
-  font-family: Source Sans Pro;
+  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
   color: var(--gray);
   line-height: 1.5em;
 }
@@ -128,7 +128,7 @@ td, th {
 .section {
   & h3 > a {
     font-weight: 700;
-    font-family: Inter;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
     margin: 0;
   }
   & p {
@@ -171,7 +171,7 @@ article {
   }
 
   & a {
-    font-family: Source Sans Pro;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
     font-weight: 600;
 
     &.internal-link {
@@ -212,14 +212,14 @@ a {
 }
 
 pre {
-  font-family: 'Fira Code';
+  font-family: JetBrains Mono,Menlo,SFMono-Regular,Consolas,"Roboto Mono",monospace;
   padding: 0.75em;
   border-radius: 3px;
   overflow-x: scroll;
 }
 
 code {
-  font-family: 'Fira Code';
+  font-family: JetBrains Mono,Menlo,SFMono-Regular,Consolas,"Roboto Mono",monospace;
   font-size: 0.85em;
   padding: 0.15em 0.3em;
   border-radius: 5px;
@@ -391,7 +391,7 @@ header {
     & > input {
       box-sizing: border-box;
       padding: 0.5em 1em;
-      font-family: Inter, sans-serif;
+      font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
       color: var(--dark);
       font-size: 1.1em;
       border: 1px solid var(--outlinegray);
@@ -514,4 +514,8 @@ header {
     font-weight: 400;
     user-select: none;
   }
+}
+
+strong{
+  color: #61C766;
 }

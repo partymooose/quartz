@@ -10,14 +10,14 @@ tags:
 ## Openers
 ### Garuda Opener
 {{< rawhtml >}}
-<img src="/notes/images/smn_ew_fast_garuda.png" width="100%">
+<img src="/notes/images/smn_ew_fast_garuda.png" width="80%" style="margin: 1em 10%">
 {{< /rawhtml >}}
 
 Gain when group is heavy in 15s buffs and you can clip Slipstream under the buff window. Otherwise, use Titan opener below.
 
 ### Titan (General) Opener
 {{< rawhtml >}}
-<img src="/notes/images/smn_ew_opener.png" width="100%">
+<img src="/notes/images/smn_ew_opener.png" width="80%" style="margin: 1em 10%">
 {{< /rawhtml >}}
 
 ## Gear sets

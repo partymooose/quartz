@@ -1,3 +1,10 @@
+---
+title: "The Epic of Alexander Ultimate"
+katex: true
+tags:
+- Raid
+- Ultimate
+---
 ## Encounter Info
 
 >**DPS Check:**
@@ -7,11 +14,8 @@
 ### Drops
 **Chest One** | **Chest Two** | **Guaranteed**
 ------------ | ------------ | ------------
-1 coffer randomly selected from the following |2 unique coffers randomly selected from the following | Page
-	| | 
-	| | 
-	| | 
-	| | 
+ | | Weapon totem
+
 
 ## Notable Mechanics
 

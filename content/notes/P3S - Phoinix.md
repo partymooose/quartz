@@ -9,7 +9,7 @@ tags:
 
 ## Encounter Info
 
->**DPS Check:** ~42,200 DPS
+>**DPS Check**: ~42,200 DPS
 >
 >**Enrage**: ~11:03 (depends on how fast add phase is completed)
 

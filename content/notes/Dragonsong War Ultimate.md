@@ -9,7 +9,7 @@ tags:
 [Back](notes/Ultimate.md)
 ## Encounter Info
 
->**DPS Check:**
+>**DPS Check**:
 >
 >**Enrage**:
 

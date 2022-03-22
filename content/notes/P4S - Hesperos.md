@@ -9,7 +9,7 @@ tags:
 
 ## Encounter Info
 
->**DPS Check:**
+>**DPS Check**:
 >
 >**Enrage**:
 

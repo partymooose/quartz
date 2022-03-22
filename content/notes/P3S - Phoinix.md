@@ -1,5 +1,6 @@
 ---
 title: "P3S - Phoinix"
+katex: true
 tags:
 - Raid
 - Pandemonium

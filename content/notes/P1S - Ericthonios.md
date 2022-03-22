@@ -1,5 +1,6 @@
 ---
 title: "P1S - Ericthonios"
+katex: true
 tags:
 - Raid
 - Pandemonium

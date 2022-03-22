@@ -8,7 +8,7 @@ tags:
 ---
 [Back](notes/Asphodelos.md)
 
-# Encounter Info
+## Encounter Info
 {{< rawhtml >}}
 <div style="width: fit-content;min-width: 30%;margin: 1em 0">
 	<p class="admonitionDamageHeader">
@@ -27,7 +27,7 @@ tags:
 </div>
 {{< /rawhtml >}}
 
-## Drops
+### Drops
 **Chest One** | **Chest Two** 
 ------------ | ------------ 
 1 coffer randomly selected from the following |1 Leg coffer

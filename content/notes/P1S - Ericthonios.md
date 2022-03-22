@@ -27,13 +27,13 @@ tags:
 {{< /rawhtml >}}
 
 ### Drops
-**Chest One** | **Chest Two** | **Guaranteed**
------------- | ------------ | ------------
-1 coffer randomly selected from the following |2 unique coffers randomly selected from the following | Page
-	- Wrist|- Wrist | 
-	- Ear|- Ear | 
-	- Neck|- Neck | 
-	- Ring|- Ring | 
+**Chest One** | **Chest Two** 
+------------ | ------------ 
+1 coffer randomly selected from the following |2 unique coffers randomly selected from the following
+	- Wrist|- Wrist
+	- Ear|- Ear
+	- Neck|- Neck
+	- Ring|- Ring
 
 ## Strategy Reference
 

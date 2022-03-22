@@ -26,22 +26,15 @@ tags:
 {{< /rawhtml >}}
 
 ### Drops
-**Chest One**
-- 1 coffer selected randomly from the following:
-	- Head
-	- Hand
-	- Foot
-	
-**Chest Two**
-- 1 coffer selected randomly from the following:
-	- Head
-	- Hand
-	- Foot
-- Discal Tomestone
-- Radiant Coating (upgrade for tome accessory)
+**Chest One** | **Chest Two** 
+------------ | ------------ 
+1 coffer randomly selected from the following |2 unique coffers randomly selected from the following
+	- Head| - Head 
+	- Hand| - Hand 
+	- Foot| - Foot 
+  || Discal Tomestone
+  || Radiant Coating  
 
-**Guaranteed**
-- Page
 
 ## Strategy Reference
 

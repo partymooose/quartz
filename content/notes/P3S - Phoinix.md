@@ -27,6 +27,13 @@ tags:
 {{< /rawhtml >}}
 
 ### Drops
+**Chest One** | **Chest Two** 
+------------ | ------------ |
+1 coffer randomly selected from the following |1 Leg coffer
+	- Head| Radiant Twine | 
+	- Hand| Radiant Roborant | 
+	- Foot| | 
+
 **Chest One**
 - 1 coffer selected randomly from the following:
 	- Head

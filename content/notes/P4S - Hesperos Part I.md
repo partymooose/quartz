@@ -1,3 +1,14 @@
+---
+title: "P4S - Hesperos Part I"
+tags:
+- Raid
+- Pandemonium
+- Asphodelos
+---
+[Back](notes/Asphodelos.md)
+
+[P4S - Hesperos Part II](notes/P4S%20-%20Hesperos%20Part%20II.md)
+
 ## Encounter Info
 
 {{< rawhtml >}}
@@ -13,16 +24,15 @@
 		Enrage
 	</p>
 	<p class="admonitionEnrageBody">
-
+		
 	</p>
 </div>
 {{< /rawhtml >}}
 
 ### Drops
-**Chest One** | **Chest Two**
------------- | ------------
-1 coffer randomly selected from the following |2 unique coffers randomly selected from the following
-
+**Chest One** | **Chest Two** 
+------------ | ------------ 
+ | 
 
 ## Notable Mechanics
 

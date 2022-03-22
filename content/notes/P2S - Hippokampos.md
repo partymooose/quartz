@@ -42,12 +42,12 @@ tags:
 ### Kampeos Harma
 [Toolbox Link](https://ff14.toolboxgaming.space/?id=677343458141461&preview=1)
 
-### Channeling Overflow 2
+#### Channeling Overflow 2
 {{< rawhtml >}}
 <p style="text-align: center"><img src="/notes/images/flow2.jpg" height="750px"></p>
 {{< /rawhtml >}}
 
-### Predatory Avarice 2
+#### Predatory Avarice 2
 {{< rawhtml >}}
 <p style="text-align: center"><img src="/notes/images/avarice2.jpg" height="750px"></p>
 {{< /rawhtml >}}

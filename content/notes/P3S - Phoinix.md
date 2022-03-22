@@ -8,7 +8,7 @@ tags:
 ---
 [Back](notes/Asphodelos.md)
 
-## Encounter Info
+# Encounter Info
 {{< rawhtml >}}
 <div style="width: fit-content;min-width: 30%;margin: 1em 0">
 	<p class="admonitionDamageHeader">
@@ -27,36 +27,22 @@ tags:
 </div>
 {{< /rawhtml >}}
 
-### Drops
+## Drops
 **Chest One** | **Chest Two** 
------------- | ------------ |
+------------ | ------------ 
 1 coffer randomly selected from the following |1 Leg coffer
-	- Head| Radiant Twine | 
-	- Hand| Radiant Roborant | 
-	- Foot| | 
-
-**Chest One**
-- 1 coffer selected randomly from the following:
-	- Head
-	- Hand
-	- Foot
-
-**Chest Two**
-- 1 Leg coffer
-- Radiant Twine (upgrade for tome armor)
-- Radiant Roborant (upgrade for tome weapon)
-
-**Guaranteed**
-- Page
+	- Head| Radiant Twine
+	- Hand| Radiant Roborant
+	- Foot| 
 
 ## Strategy Reference
 
-### Dark Fire Numbers
+#### Dark Fire Numbers
 {{< rawhtml >}}
 <p style="text-align: center"><img src="/notes/images/Pasted%20image%2020220318211834.png" height="550px"></p>
 {{< /rawhtml >}}
 
-### Add Tethers
+#### Add Tethers
 {{< rawhtml >}}
 <p style="text-align: center"><img src="/notes/images/Pasted%20image%2020220318211605.png" height="550px"><img src="/notes/images/Pasted%20image%2020220318211746.png" height="550px"></p>
 {{< /rawhtml >}}
@@ -66,7 +52,7 @@ tags:
 <p style="text-align: center"><img src="/notes/images/adds-dash.jpg" height="550px"></p>
 {{< /rawhtml >}}
 
-### Experimental Gloryplume
+#### Experimental Gloryplume
 {{< rawhtml >}}
 <p style="text-align: center"><img src="/notes/images/glory-spread" height="550px"><img src="/notes/images/glory-stack" height="550px"></p>
 {{< /rawhtml >}}

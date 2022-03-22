@@ -41,7 +41,7 @@ tags:
 ### Intemperance - N/NE swap
 [Toolbox Link](https://ff14.toolboxgaming.space/?id=425445241051461&preview=1#1)
 
-### Fourfold Shackles - Timer strat
+#### Fourfold Shackles - Timer strat
 {{< rawhtml >}}
 <p style="text-align: center"><img src="/notes/images/timer%20strat.jpg" height="550px"></p>
 {{< /rawhtml >}}

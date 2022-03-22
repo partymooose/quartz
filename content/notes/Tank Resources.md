@@ -6,8 +6,8 @@ tags:
 - Tank
 ---
 ## Jobs
-- [Dark Knight](Dark%20Knight)
-- [Gunbreaker](Gunbreaker)
+- [Dark Knight](notes/Dark%20Knight.md)
+- [Gunbreaker](notes/Gunbreaker.md)
 - [Paladin](notes/Paladin.md)
 - [Warrior](notes/Warrior.md)
 

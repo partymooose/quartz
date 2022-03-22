@@ -8,17 +8,28 @@ tags:
 ---
 [Back](notes/Ultimate.md)
 ## Encounter Info
+{{< rawhtml >}}
+<div style="width: fit-content;min-width: 30%;margin: 1em 0">
+	<p class="admonitionDamageHeader">
+		DPS Check
+	</p>
+	<p class="admonitionDamageBody">
+		
+	</p>
 
->**DPS Check**:
->
->**Enrage**:
+	<p class="admonitionEnrageHeader">
+		Enrage
+	</p>
+	<p class="admonitionEnrageBody">
+
+	</p>
+</div>
+{{< /rawhtml >}}
 
 ### Drops
-**Guaranteed**
-- Weapon totem
-
-## Notable Mechanics
-
+**Chest One** | **Chest Two** | **Guaranteed**
+------------ | ------------ | ------------
+N/A | N/A | Weapon totem
 
 ## Strategy Reference
 

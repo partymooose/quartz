@@ -35,9 +35,6 @@ tags:
 ------------ | ------------ 
  | 
 
-## Notable Mechanics
-
-
 ## Strategy Reference
 
 ---

@@ -9,9 +9,22 @@ tags:
 
 ## Encounter Info
 
->**DPS Check**: ~39,661 DPS
->
->**Enrage**: 10:20
+{{< rawhtml >}}
+<div style="width: fit-content;min-width: 30%;margin: 1em 0">
+	<p class="admonitionDamageHeader">
+		DPS Check
+	</p>
+	<p class="admonitionDamageBody">
+		~39,661 DPS
+	</p>
+	<p class="admonitionEnrageHeader">
+		Enrage
+	</p>
+	<p class="admonitionEnrageBody">
+		10:20
+	</p>
+</div>
+{{< /rawhtml >}}
 
 ### Drops
 **Chest One** | **Chest Two** | **Guaranteed**

@@ -22,3 +22,59 @@
   --lightgray: #292633 !important;
   --outlinegray: #343434 !important;
 }
+
+p.admonitionDamageHeader
+{
+  background-color: #b7010120;
+  border-left: solid 4px #b70101;
+  background-image: url(/notes/images/Check-16.png);
+  background-position: 9px 16px;
+  background-repeat: no-repeat;
+  line-height: 18px;
+  overflow: hidden;
+  padding: 15px 35px;
+  color: var(--dark) !important;
+  font-weight: bold;
+  box-shadow: 2px 4px 5px black;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+p.admonitionDamageBody{
+  background-color: #19191b;
+  border-left: solid 4px #b70101;
+  line-height: 18px;
+  overflow: hidden;
+  padding: 15px 35px;
+  box-shadow: 2px 4px 5px black;
+  margin-top: 0px;
+  margin-bottom: 1em;
+}
+
+p.admonitionEnrageHeader
+{
+  background-color: #818a0020;
+  border-left: solid 4px #818a00;
+  background-image: url(/notes/images/Warning-Message-16.png);
+  background-position: 9px 16px;
+  background-repeat: no-repeat;
+  line-height: 18px;
+  overflow: hidden;
+  padding: 15px 35px;
+  color: var(--dark) !important;
+  font-weight: bold;
+  box-shadow: 2px 4px 5px black;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+p.admonitionEnrageBody{
+  background-color: #19191b;
+  border-left: solid 4px #818a00;
+  line-height: 18px;
+  overflow: hidden;
+  padding: 15px 35px;
+  box-shadow: 2px 4px 5px black;
+  margin-top: 0px;
+  margin-bottom: 1em;
+}

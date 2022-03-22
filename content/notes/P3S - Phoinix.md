@@ -8,10 +8,23 @@ tags:
 [Back](notes/Asphodelos.md)
 
 ## Encounter Info
+{{< rawhtml >}}
+<div style="width: fit-content;min-width: 30%;margin: 1em 0">
+	<p class="admonitionDamageHeader">
+		DPS Check
+	</p>
+	<p class="admonitionDamageBody">
+		~42,200 DPS
+	</p>
 
->**DPS Check**: ~42,200 DPS
->
->**Enrage**: ~11:03 (depends on how fast add phase is completed)
+	<p class="admonitionEnrageHeader">
+		Enrage
+	</p>
+	<p class="admonitionEnrageBody">
+		~11:03 (depends on how fast add phase is completed)
+	</p>
+</div>
+{{< /rawhtml >}}
 
 ### Drops
 **Chest One**

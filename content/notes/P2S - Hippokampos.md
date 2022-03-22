@@ -8,10 +8,22 @@ tags:
 [Back](notes/Asphodelos.md)
 
 ## Encounter Info
-
->**DPS Check**: ~41,900 DPS
->
->**Enrage**: 10:28
+{{< rawhtml >}}
+<div style="width: fit-content;min-width: 30%;margin: 1em 0">
+	<p class="admonitionDamageHeader">
+		DPS Check
+	</p>
+	<p class="admonitionDamageBody">
+		~41,900 DPS
+	</p>
+	<p class="admonitionEnrageHeader">
+		Enrage
+	</p>
+	<p class="admonitionEnrageBody">
+		10:28
+	</p>
+</div>
+{{< /rawhtml >}}
 
 ### Drops
 **Chest One**

@@ -1,7 +1,7 @@
 ## Encounter Info
 
 {{< rawhtml >}}
-<div style="width: fit-content;min-width: 30%;margin: 1em 0">
+<div class="admonitionDiv">
 	<p class="admonitionDamageHeader">
 		DPS Check
 	</p>

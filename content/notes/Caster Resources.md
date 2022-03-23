@@ -11,3 +11,4 @@ tags:
 - [Red Mage](notes/Red%20Mage.md)
 
 ## General Resources
+- [Caster Mitigation Guide - Pandaemonium](https://bit.ly/3AHEMxZ)

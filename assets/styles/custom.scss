@@ -39,6 +39,7 @@ p.admonitionDamageHeader
   margin-top: 0px;
   margin-bottom: 0px;
   border-top-right-radius: 6px;
+
 }
 
 p.admonitionDamageBody{
@@ -51,6 +52,7 @@ p.admonitionDamageBody{
   margin-top: 0px;
   margin-bottom: 1em;
   border-bottom-right-radius: 6px;
+
 }
 
 p.admonitionEnrageHeader
@@ -81,6 +83,12 @@ p.admonitionEnrageBody{
   margin-top: 0px;
   margin-bottom: 1em;
   border-bottom-right-radius: 6px;
+}
+
+div.admonitionDiv{
+  width: fit-content;
+  min-width: 30%;
+  margin: 1em 0;
 }
 
 h4{

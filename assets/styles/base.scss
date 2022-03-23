@@ -82,11 +82,19 @@ p, tbody, li {
 }
 
 blockquote {
-  margin-left: 0em;
+  margin-left: 1em;
   border-left: 3px solid var(--secondary);
   padding-left: 1em;
   transition: border-color 0.2s ease;
-
+  background-color: #19191b;
+  line-height: 18px;
+  overflow: hidden;
+  padding: 15px 35px;
+  box-shadow: 2px 4px 5px black;
+  margin-top: 0px;
+  margin-bottom: 1em;
+  max-width: 75%;
+  
   &:hover {
     border-color: var(--tertiary);
   }

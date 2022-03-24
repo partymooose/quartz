@@ -17,7 +17,7 @@
   --secondary: #6b879a !important;
   --visited: #4a575e !important;
   --tertiary: #84a59d !important;
-  --primary: #f58382 !important;
+  --primary: #f58282 !important;
   --gray: #d4d4d4 !important;
   --lightgray: #292633 !important;
   --outlinegray: #343434 !important;
@@ -111,26 +111,40 @@ div.admonitionDiv{
 }
 
 #myBtn {
-  opacity: 0.5;
+  transition: border-color .5s ease;
   display: none;/* Hidden by default */
   position: fixed; /* Fixed/sticky position */
   top: 20px; /* Place the button at the bottom of the page */
-  left: 30px; /* Place the button 30px from the right */
+  right: 30px; /* Place the button 30px from the right */
   z-index: 99; /* Make sure it does not overlap */
-  border: none; /* Remove borders */
+  border-left: solid 3px var(--primary); /* Remove borders */
   outline: none; /* Remove outline */
   background-color: #19191b; /* Set a background color */
-  color: white; /* Text color */
-  cursor: pointer; /* Add a mouse pointer on hover */
-  padding: 10px; /* Some padding */
+  padding: 0.5em 1em 0.5em 0.5em;
   box-shadow: 2px 4px 5px black;
-  border-radius: 6px;
+  border-bottom-right-radius: 6px;
+  border-top-right-radius: 6px;
 }
 
-#myBtn:hover {
-  background-color: #555; /* Add a dark-grey background on hover */
+#myBtn:hover{
+  border-color: var(--gray);
 }
 
-#myBtn.fade {
-  opacity: 1;
+.mainTOC{
+  transition: border-color .5s ease;
+  width: fit-content;
+  background-color: #19191b;
+  border-left: solid 3px var(--primary);
+  line-height: 18px;
+  overflow: hidden;
+  padding: 0px 2em 1em 1em;
+  box-shadow: 2px 4px 5px black;
+  margin-top: 0px;
+  margin-bottom: 1em;
+  border-bottom-right-radius: 6px;
+  border-top-right-radius: 6px;
+}
+
+.mainTOC:hover{
+  border-color: var(--gray);
 }

@@ -24,12 +24,12 @@ N/A | N/A | Weapon totem
 {{< /rawhtml >}}
 # Strategy Reference
 ## PF strat toolboxes
-### [Living Liquid](https://ff14.toolboxgaming.space/?id=830419115443951&preview=1)
-### [Limit Cut](https://ff14.toolboxgaming.space/?id=240411819443951&preview=1)
-### [Split Brute Justice/Cruise Chaser](https://ff14.toolboxgaming.space/?id=340414049443951&preview=1)
-### [Alexander Prime](https://ff14.toolboxgaming.space/?id=644734516198261&preview=1)
-### [Wormhole](https://ff14.toolboxgaming.space/?id=236244852760461&preview=1)
-### [Perfect Alexander](https://ff14.toolboxgaming.space/?id=646241037470461&preview=1)
+- [Living Liquid](https://ff14.toolboxgaming.space/?id=830419115443951&preview=1)
+- [Limit Cut](https://ff14.toolboxgaming.space/?id=240411819443951&preview=1)
+- [Split Brute Justice/Cruise Chaser](https://ff14.toolboxgaming.space/?id=340414049443951&preview=1)
+- [Alexander Prime](https://ff14.toolboxgaming.space/?id=644734516198261&preview=1)
+- [Wormhole](https://ff14.toolboxgaming.space/?id=236244852760461&preview=1)
+- [Perfect Alexander](https://ff14.toolboxgaming.space/?id=646241037470461&preview=1)
 
 ---
 

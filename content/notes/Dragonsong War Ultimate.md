@@ -6,7 +6,6 @@ tags:
 - Ultimate
 - Dragonsong War
 ---
-[Back](notes/Ultimate.md)
 ## Encounter Info
 {{< rawhtml >}}
 <div style="width: fit-content;min-width: 30%;margin: 1em 0">

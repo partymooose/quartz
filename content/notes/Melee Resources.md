@@ -6,10 +6,10 @@ tags:
 - Melee
 ---
 ## Job Resources
-- [Reaper](notes/Reaper.md)
-- [Monk](notes/Monk.md)
-- [Dragoon](notes/Dragoon.md)
-- [Ninja](notes/Ninja.md)
-- [Samurai](notes/Samurai.md)
+- [Reaper](notes/Reaper)
+- [Monk](notes/Monk)
+- [Dragoon](notes/Dragoon)
+- [Ninja](notes/Ninja)
+- [Samurai](notes/Samurai)
 
 ## General Resources

@@ -6,9 +6,8 @@ tags:
 - Pandemonium
 - Asphodelos
 ---
-[Back](notes/Asphodelos.md)
 
-## Encounter Info
+# Encounter Info
 
 {{< rawhtml >}}
 <div class="admonitionDiv">
@@ -27,7 +26,7 @@ tags:
 </div>
 {{< /rawhtml >}}
 
-### Drops
+## Drops
 **Chest One** | **Chest Two** 
 ------------ | ------------ 
 1 coffer randomly selected from the following |2 unique coffers randomly selected from the following
@@ -36,28 +35,28 @@ tags:
 	- Neck|- Neck
 	- Ring|- Ring
 
-## Strategy Reference
+# Strategy Reference
 
-### Intemperance - N/NE swap
+## Intemperance - N/NE swap
 [Toolbox Link](https://ff14.toolboxgaming.space/?id=425445241051461&preview=1#1)
 
-#### Fourfold Shackles - Timer strat
+## Fourfold Shackles - Timer strat {.center}
 {{< rawhtml >}}
-<p style="text-align: center"><img src="/notes/images/timer%20strat.jpg" height="550px"></p>
+<p class="center"><img src="/notes/images/timer%20strat.jpg" height="550px"></p>
 {{< /rawhtml >}}
 
 ---
 
-### Guide Links
-**The Balance**: [Text guide](https://www.thebalanceffxiv.com/encounters/savage/pandaemonium/p1s/)
-
-**Video Guide**: [Rainesama](https://www.youtube.com/watch?v=Efkbo-LdZdI)
+# Guide Links
+## [The Balance](https://www.thebalanceffxiv.com/encounters/savage/pandaemonium/p1s/)
+## Video Guides
+### Rainesama {.center}
 
 {{< rawhtml >}}
 
-<div style="position:relative;padding-bottom:45%;max-width:80%;margin: auto;">
+<div class="videoEmbed">
 	<iframe 
-		style="width:100%;height:100%;position:absolute;left:0px;top:0px;"
+		class="videoFrame"
 		width="100%" 
 		height="100%" 
 		src="https://www.youtube.com/embed/Efkbo-LdZdI" 

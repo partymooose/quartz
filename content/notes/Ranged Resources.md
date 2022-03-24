@@ -6,8 +6,8 @@ tags:
 - Ranged
 ---
 ## Job Resources
-- [Dancer](notes/Dancer.md)
-- [Bard](notes/Bard.md)
-- [Machinist](notes/Machinist.md)
+- [Dancer](notes/Dancer)
+- [Bard](notes/Bard)
+- [Machinist](notes/Machinist)
 
 ## General Resources

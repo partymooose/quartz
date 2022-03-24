@@ -1,4 +1,4 @@
-## Encounter Info
+# Encounter Info
 
 {{< rawhtml >}}
 <div class="admonitionDiv">
@@ -18,16 +18,16 @@
 </div>
 {{< /rawhtml >}}
 
-### Drops
+## Drops
 **Chest One** | **Chest Two**
 ------------ | ------------
 1 coffer randomly selected from the following |2 unique coffers randomly selected from the following
 
-## Strategy Reference
+# Strategy Reference
 
 ---
 
-## Guide Links
+# Guide Links
 **The Balance**: 
 
 **Video Guide**: 

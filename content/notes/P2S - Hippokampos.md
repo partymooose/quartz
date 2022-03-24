@@ -6,9 +6,8 @@ tags:
 - Pandemonium
 - Asphodelos
 ---
-[Back](notes/Asphodelos.md)
 
-## Encounter Info
+# Encounter Info
 {{< rawhtml >}}
 <div class="admonitionDiv">
 	<p class="admonitionDamageHeader">
@@ -26,7 +25,7 @@ tags:
 </div>
 {{< /rawhtml >}}
 
-### Drops
+## Drops
 **Chest One** | **Chest Two** 
 ------------ | ------------ 
 1 coffer randomly selected from the following |2 unique coffers randomly selected from the following
@@ -37,33 +36,32 @@ tags:
   || Radiant Coating  
 
 
-## Strategy Reference
+# Strategy Reference
 
-### Kampeos Harma
+## Kampeos Harma
 [Toolbox Link](https://ff14.toolboxgaming.space/?id=677343458141461&preview=1)
 
-#### Channeling Overflow 2
+## Channeling Overflow 2 {.center}
 {{< rawhtml >}}
-<p style="text-align: center"><img src="/notes/images/flow2.jpg" height="750px"></p>
+<p class="center"><img src="/notes/images/flow2.jpg" height="750px"></p>
 {{< /rawhtml >}}
 
-#### Predatory Avarice 2
+## Predatory Avarice 2 {.center}
 {{< rawhtml >}}
-<p style="text-align: center"><img src="/notes/images/avarice2.jpg" height="750px"></p>
+<p class="center"><img src="/notes/images/avarice2.jpg" height="750px"></p>
 {{< /rawhtml >}}
 
 ---
 
-## Guide Links
-**The Balance**: [Text guide](https://www.thebalanceffxiv.com/encounters/savage/pandaemonium/p2s/)
-
-**Video Guides**:
-- [Rainesama](https://www.youtube.com/watch?v=ZgA7787UGKk)
+# Guide Links
+## [The Balance](https://www.thebalanceffxiv.com/encounters/savage/pandaemonium/p2s/)
+## Video Guides
+### Rainesama {.center}
 
 {{< rawhtml >}}
-<div style="position:relative;padding-bottom:45%;max-width:80%;margin: auto;">
+<div class="videoEmbed">
 	<iframe 
-		style="width:100%;height:100%;position:absolute;left:0px;top:0px;"
+		class="videoFrame"
 		width="100%" 
 		height="100%" 
 		src="https://www.youtube.com/embed/ZgA7787UGKk" 
@@ -75,13 +73,13 @@ tags:
 </div>
 {{< /rawhtml >}}
 
-- [Joonbob Kampeos Harma pocket guide](https://www.youtube.com/watch?v=PRQSMXcjpRk)
+### Joonbob Kampeos Harma pocket guide {.center}
 
 {{< rawhtml >}}
 
-<div style="position:relative;padding-bottom:45%;max-width:80%;margin: auto;">
+<div class="videoEmbed">
 	<iframe 
-		style="width:100%;height:100%;position:absolute;left:0px;top:0px;"
+		class="videoFrame"
 		width="100%" 
 		height="100%" 
 		src="https://www.youtube.com/embed/PRQSMXcjpRk" 
@@ -94,13 +92,13 @@ tags:
 
 {{< /rawhtml >}}
 
-- [Joonbob Channeling Overflow 2+3 pocket guide](https://www.youtube.com/watch?v=lWMYCSBy6Ak)
+### Joonbob Channeling Overflow 2+3 pocket guide {.center}
 
 {{< rawhtml >}}
 
-<div style="position:relative;padding-bottom:45%;max-width:80%;margin: auto;">
+<div class="videoEmbed">
 	<iframe 
-		style="width:100%;height:100%;position:absolute;left:0px;top:0px;"
+		class="videoFrame"
 		width="100%" 
 		height="100%" 
 		src="https://www.youtube.com/embed/lWMYCSBy6Ak" 

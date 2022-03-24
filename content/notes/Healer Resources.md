@@ -6,9 +6,9 @@ tags:
 - Healer
 ---
 ## Job Resources
-- [Sage](notes/Sage.md)
-- [Scholar](notes/Scholar.md)
-- [Astrologian](notes/Astrologian.md)
-- [White Mage](notes/White%20Mage.md)
+- [Sage](notes/Sage)
+- [Scholar](notes/Scholar)
+- [Astrologian](notes/Astrologian)
+- [White Mage](notes/White%20Mage)
 
 ## General Resources

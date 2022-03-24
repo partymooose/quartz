@@ -12,7 +12,19 @@ tags:
 N/A | N/A | Weapon totem
 
 ### Encounter Resources
+{{< rawhtml >}}
+<div class="admonitionDiv">
+	<p class="admonitionEnrageHeader">
+		Note on gear
+	</p>
+	<p class="admonitionEnrageBody">
+	iLvl 600 gear pieces will cap stats and are viable to use - otherwise, check on the <a href="https://docs.google.com/spreadsheets/d/1b6LR-dbypIODyjNhNV5bGVJtJS14cxyPc3xZ1LIfrsM/edit#gid=980050008" target="new">level sync calculator.</a>
+	</p>
+</div>
+{{< /rawhtml >}}
 
+> ### Note on gear
+> iLvl 600 gear pieces will cap stats and are viable to use - otherwise, check on the [level sync calculator.](https://docs.google.com/spreadsheets/d/1b6LR-dbypIODyjNhNV5bGVJtJS14cxyPc3xZ1LIfrsM/edit#gid=980050008)
 
 ## Strategy Reference
 ### PF strat toolboxes
@@ -23,7 +35,6 @@ N/A | N/A | Weapon totem
 - [Wormhole](https://ff14.toolboxgaming.space/?id=236244852760461&preview=1)
 - [Perfect Alexander](https://ff14.toolboxgaming.space/?id=646241037470461&preview=1)
 
-
 ---
 
 ## Guide Links
@@ -32,3 +43,98 @@ N/A | N/A | Weapon totem
 - [Strats Pastebin](https://pastebin.com/Xqa1zsPy) (source for toolbox links)
 
 **Video Guides**: 
+
+#### [Ilya Full Walkthrough Video](https://www.youtube.com/watch?v=eowGglNPGw0)
+
+{{< rawhtml >}}
+
+<div class="videoEmbed">
+	<iframe 
+		class="videoFrame"
+		width="100%" 
+		height="100%" 
+		src="https://www.youtube.com/embed/eowGglNPGw0" 
+		title="Ilya Full Walkthrough Video" 
+		frameborder="0" 
+		allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+		allowfullscreen
+	></iframe>
+</div>
+
+{{< /rawhtml >}}
+
+#### [Living Liquid Breakout Guide](https://www.youtube.com/watch?v=dQjVEZZczH0)
+
+{{< rawhtml >}}
+
+<div class="videoEmbed">
+	<iframe 
+		class="videoFrame"
+		width="100%" 
+		height="100%" 
+		src="https://www.youtube.com/embed/dQjVEZZczH0" 
+		title="Living Liquid Breakout Guide" 
+		frameborder="0" 
+		allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+		allowfullscreen
+	></iframe>
+</div>
+
+{{< /rawhtml >}}
+
+#### [Brute Justice/Cruise Chaser Breakout Guide](https://www.youtube.com/watch?v=p_OsvW4WJgA)
+
+{{< rawhtml >}}
+
+<div class="videoEmbed">
+	<iframe 
+		class="videoFrame"
+		width="100%" 
+		height="100%" 
+		src="https://www.youtube.com/embed/p_OsvW4WJgA" 
+		title="Brute Justice/Cruise Chaser Breakout Guide" 
+		frameborder="0" 
+		allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+		allowfullscreen
+	></iframe>
+</div>
+
+{{< /rawhtml >}}
+
+#### [Alexander Prime Breakout Guide](https://www.youtube.com/watch?v=DstSkzUGMwc)
+
+{{< rawhtml >}}
+
+<div class="videoEmbed">
+	<iframe 
+		class="videoFrame"
+		width="100%" 
+		height="100%" 
+		src="https://www.youtube.com/embed/DstSkzUGMwc" 
+		title="Alexander Prime Breakout Guide" 
+		frameborder="0" 
+		allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+		allowfullscreen
+	></iframe>
+</div>
+
+{{< /rawhtml >}}
+
+#### [Perfect Alexander Breakout Guide](https://www.youtube.com/watch?v=fiXZRgAOCHw)
+
+{{< rawhtml >}}
+
+<div class="videoEmbed">
+	<iframe 
+		class="videoFrame"
+		width="100%" 
+		height="100%" 
+		src="https://www.youtube.com/embed/fiXZRgAOCHw" 
+		title="Perfect Alexander Breakout Guide" 
+		frameborder="0" 
+		allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+		allowfullscreen
+	></iframe>
+</div>
+
+{{< /rawhtml >}}

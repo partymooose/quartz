@@ -6,9 +6,8 @@ tags:
 - Pandemonium
 - Asphodelos
 ---
-[Back](notes/Asphodelos.md)
 
-[P4S - Hesperos Part I](notes/P4S%20-%20Hesperos%20Part%20I.md)
+[P4S - Hesperos Part I](notes/P4S%20-%20Hesperos%20Part%20I)
 
 ## Encounter Info
 

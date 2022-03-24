@@ -6,9 +6,8 @@ tags:
 - Pandemonium
 - Asphodelos
 ---
-[Back](notes/Asphodelos.md)
 
-## Encounter Info
+# Encounter Info
 {{< rawhtml >}}
 <div class="admonitionDiv">
 	<p class="admonitionDamageHeader">
@@ -27,7 +26,7 @@ tags:
 </div>
 {{< /rawhtml >}}
 
-### Drops
+## Drops
 **Chest One** | **Chest Two** 
 ------------ | ------------ 
 1 coffer randomly selected from the following |1 Leg coffer
@@ -35,29 +34,29 @@ tags:
 	- Hand| Radiant Roborant
 	- Foot| 
 
-## Strategy Reference
+# Strategy Reference
 
-#### Dark Fire Numbers
+### Dark Fire Numbers {.center}
 {{< rawhtml >}}
-<p style="text-align: center"><img src="/notes/images/Pasted%20image%2020220318211834.png" height="550px"></p>
+<p class="center"><img src="/notes/images/Pasted%20image%2020220318211834.png" height="550px"></p>
 {{< /rawhtml >}}
 
-#### Add Tethers
+### Add Tethers {.center}
 {{< rawhtml >}}
-<p style="text-align: center"><img src="/notes/images/Pasted%20image%2020220318211605.png" height="550px"><img src="/notes/images/Pasted%20image%2020220318211746.png" height="550px"></p>
+<p class="center"><img src="/notes/images/Pasted%20image%2020220318211605.png" height="550px"><img src="/notes/images/Pasted%20image%2020220318211746.png" height="550px"></p>
 {{< /rawhtml >}}
 
-#### Line AoE hitbox
+### Line AoE hitbox {.center}
 {{< rawhtml >}}
-<p style="text-align: center"><img src="/notes/images/adds-dash.jpg" height="550px"></p>
+<p class="center"><img src="/notes/images/adds-dash.jpg" height="550px"></p>
 {{< /rawhtml >}}
 
-#### Experimental Gloryplume
+### Experimental Gloryplume {.center}
 {{< rawhtml >}}
-<p style="text-align: center"><img src="/notes/images/glory-spread" height="550px"><img src="/notes/images/glory-stack" height="550px"></p>
+<p class="center"><img src="/notes/images/glory-spread" height="550px"><img src="/notes/images/glory-stack" height="550px"></p>
 {{< /rawhtml >}}
 
-### Fountain of Fire toolbox
+## Fountain of Fire toolbox
 [Toolbox Link](https://ff14.toolboxgaming.space/?id=964448726941461&preview=1#1)
 
 >What's actually happening in the mechanic is that there will be a series of three point-blank AoEs that drop untargetable bird adds, just like the birds in adds phase. These casts will target the two closest players that haven't already been targeted by the mechanic, and it will happen 3 times in a row (for a total of 6, so all tanks and DPS). 
@@ -68,17 +67,16 @@ tags:
 
 ---
 
-## Guide Links
-**The Balance**: [Text guide](https://www.thebalanceffxiv.com/encounters/savage/pandaemonium/p3s/)
-
-**Video Guides**:
-- [Rainesama](https://www.youtube.com/watch?v=aE9QuyRT5wY)
+# Guide Links
+## [The Balance](https://www.thebalanceffxiv.com/encounters/savage/pandaemonium/p3s/)
+## Video Guides
+### Rainesama {.center}
 
 {{< rawhtml >}}
 
-<div style="position:relative;padding-bottom:45%;max-width:80%;margin: auto;">
+<div class="videoEmbed">
 	<iframe 
-		style="width:100%;height:100%;position:absolute;left:0px;top:0px;"
+		class="videoFrame"
 		width="100%" 
 		height="100%" 
 		src="https://www.youtube.com/embed/aE9QuyRT5wY" 
@@ -91,13 +89,13 @@ tags:
 
 {{< /rawhtml >}}
 
-- [Joonbob Adds phase pocket guide](https://www.youtube.com/watch?v=DGWKBtK7lR4)
+### Joonbob Adds phase pocket guide {.center}
 
 {{< rawhtml >}}
 
-<div style="position:relative;padding-bottom:45%;max-width:80%;margin: auto;">
+<div class="videoEmbed">
 	<iframe 
-		style="width:100%;height:100%;position:absolute;left:0px;top:0px;"
+		class="videoFrame"
 		width="100%" 
 		height="100%" 
 		src="https://www.youtube.com/embed/DGWKBtK7lR4" 
@@ -110,13 +108,13 @@ tags:
 
 {{< /rawhtml >}}
 
-- [Joonbob Flames of Asphodelos pocket guide](https://www.youtube.com/watch?v=VebIW87iAQY)
+### Joonbob Flames of Asphodelos pocket guide {.center}
 
 {{< rawhtml >}}
 
-<div style="position:relative;padding-bottom:45%;max-width:80%;margin: auto;">
+<div class="videoEmbed">
 	<iframe 
-		style="width:100%;height:100%;position:absolute;left:0px;top:0px;"
+		class="videoFrame"
 		width="100%" 
 		height="100%" 
 		src="https://www.youtube.com/embed/VebIW87iAQY" 

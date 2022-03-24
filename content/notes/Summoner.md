@@ -6,7 +6,6 @@ tags:
 - Caster
 - Summoner
 ---
-[Back](notes/Caster%20Resources.md)
 ## Openers
 > In both of the below openers, the 1st GCD Ruin III (directly after Searing Light) can be cut to push Bahamut out earlier (referred to henceforth as 1st GCD Bahamut). Note that optimal oGCD timings will change when using this variation - the important part is simply to ensure that all oGCDs fall within raid buffs.
 

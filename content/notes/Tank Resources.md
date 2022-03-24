@@ -6,9 +6,9 @@ tags:
 - Tank
 ---
 ## Jobs
-- [Dark Knight](notes/Dark%20Knight.md)
-- [Gunbreaker](notes/Gunbreaker.md)
-- [Paladin](notes/Paladin.md)
-- [Warrior](notes/Warrior.md)
+- [Dark Knight](notes/Dark%20Knight)
+- [Gunbreaker](notes/Gunbreaker)
+- [Paladin](notes/Paladin)
+- [Warrior](notes/Warrior)
 
 ## General Resources

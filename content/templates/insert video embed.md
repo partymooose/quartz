@@ -1,8 +1,8 @@
 {{< rawhtml >}}
 
-<div style="position:relative;padding-bottom:45%;max-width:80%;margin: auto;">
+<div class="videoEmbed">
 	<iframe 
-		style="width:100%;height:100%;position:absolute;left:0px;top:0px;"
+		class="videoFrame"
 		width="100%" 
 		height="100%" 
 		src="" 

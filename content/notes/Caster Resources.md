@@ -6,9 +6,9 @@ tags:
 - Caster
 ---
 ## Job Resources
-- [Summoner](notes/Summoner.md)
-- [Black Mage](notes/Black%20Mage.md)
-- [Red Mage](notes/Red%20Mage.md)
+- [Summoner](notes/Summoner)
+- [Black Mage](notes/Black%20Mage)
+- [Red Mage](notes/Red%20Mage)
 
 ## General Resources
 - [Caster Mitigation Guide - Pandaemonium](https://bit.ly/3AHEMxZ)

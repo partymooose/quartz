@@ -5,13 +5,13 @@ tags:
 - Raid
 - Ultimate
 ---
-## Encounter Info
-### Drops
+# Encounter Info
+## Drops
 **Chest One** | **Chest Two** | **Guaranteed**
 ------------ | ------------ | ------------
 N/A | N/A | Weapon totem
 
-### Encounter Resources
+# Encounter Resources
 {{< rawhtml >}}
 <div class="admonitionDiv">
 	<p class="admonitionEnrageHeader">
@@ -22,29 +22,25 @@ N/A | N/A | Weapon totem
 	</p>
 </div>
 {{< /rawhtml >}}
-
-> ### Note on gear
-> iLvl 600 gear pieces will cap stats and are viable to use - otherwise, check on the [level sync calculator.](https://docs.google.com/spreadsheets/d/1b6LR-dbypIODyjNhNV5bGVJtJS14cxyPc3xZ1LIfrsM/edit#gid=980050008)
-
-## Strategy Reference
-### PF strat toolboxes
-- [Living Liquid](https://ff14.toolboxgaming.space/?id=830419115443951&preview=1)
-- [Limit Cut](https://ff14.toolboxgaming.space/?id=240411819443951&preview=1)
-- [Split Brute Justice/Cruise Chaser](https://ff14.toolboxgaming.space/?id=340414049443951&preview=1)
-- [Alexander Prime](https://ff14.toolboxgaming.space/?id=644734516198261&preview=1)
-- [Wormhole](https://ff14.toolboxgaming.space/?id=236244852760461&preview=1)
-- [Perfect Alexander](https://ff14.toolboxgaming.space/?id=646241037470461&preview=1)
+# Strategy Reference
+## PF strat toolboxes
+### [Living Liquid](https://ff14.toolboxgaming.space/?id=830419115443951&preview=1)
+### [Limit Cut](https://ff14.toolboxgaming.space/?id=240411819443951&preview=1)
+### [Split Brute Justice/Cruise Chaser](https://ff14.toolboxgaming.space/?id=340414049443951&preview=1)
+### [Alexander Prime](https://ff14.toolboxgaming.space/?id=644734516198261&preview=1)
+### [Wormhole](https://ff14.toolboxgaming.space/?id=236244852760461&preview=1)
+### [Perfect Alexander](https://ff14.toolboxgaming.space/?id=646241037470461&preview=1)
 
 ---
 
-## Guide Links
-**Text Guides**: 
+# Guide Links
+## Text Guides 
 - [GDocs Text Guide](https://docs.google.com/document/d/1wKE4Hj7asv5PsJT4w4mL5chDRMTtgUbdPCsJWqGsuJk/edit#) (goes into more detail on what's actually happening in mechanics)
 - [Strats Pastebin](https://pastebin.com/Xqa1zsPy) (source for toolbox links)
 
-**Video Guides**: 
+## Video Guides 
 
-#### [Ilya Full Walkthrough Video](https://www.youtube.com/watch?v=eowGglNPGw0)
+### Ilya Full Walkthrough Video {.center}
 
 {{< rawhtml >}}
 
@@ -63,7 +59,7 @@ N/A | N/A | Weapon totem
 
 {{< /rawhtml >}}
 
-#### [Living Liquid Breakout Guide](https://www.youtube.com/watch?v=dQjVEZZczH0)
+### Living Liquid Breakout Guide {.center}
 
 {{< rawhtml >}}
 
@@ -82,7 +78,7 @@ N/A | N/A | Weapon totem
 
 {{< /rawhtml >}}
 
-#### [Brute Justice/Cruise Chaser Breakout Guide](https://www.youtube.com/watch?v=p_OsvW4WJgA)
+### Brute Justice/Cruise Chaser Breakout Guide {.center}
 
 {{< rawhtml >}}
 
@@ -101,7 +97,7 @@ N/A | N/A | Weapon totem
 
 {{< /rawhtml >}}
 
-#### [Alexander Prime Breakout Guide](https://www.youtube.com/watch?v=DstSkzUGMwc)
+### Alexander Prime Breakout Guide {.center}
 
 {{< rawhtml >}}
 
@@ -120,7 +116,7 @@ N/A | N/A | Weapon totem
 
 {{< /rawhtml >}}
 
-#### [Perfect Alexander Breakout Guide](https://www.youtube.com/watch?v=fiXZRgAOCHw)
+### Perfect Alexander Breakout Guide {.center}
 
 {{< rawhtml >}}
 

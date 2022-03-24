@@ -22,6 +22,9 @@ N/A | N/A | Weapon totem
 	</p>
 </div>
 {{< /rawhtml >}}
+
+- [Tank Mitigation Sheet](https://docs.google.com/spreadsheets/d/1T8bJaCMec0QnqXExye3ZdWkGd30yXuURiNHjR6x-qr0/edit#gid=0)
+
 # Strategy Reference
 ## PF strat toolboxes
 - [Living Liquid](https://ff14.toolboxgaming.space/?id=830419115443951&preview=1)

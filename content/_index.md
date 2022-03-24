@@ -1,7 +1,6 @@
 ---
 title: "Home Page"
 ---
-
 # Raid
 ## Fight resources
 ### [Asphodelos](notes/Asphodelos)

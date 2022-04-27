@@ -7,25 +7,12 @@ tags:
 - Summoner
 ---
 ## Openers
-> In both of the below openers, the 1st GCD Ruin III (directly after Searing Light) can be cut to push Bahamut out earlier (referred to henceforth as 1st GCD Bahamut). Note that optimal oGCD timings will change when using this variation - the important part is simply to ensure that all oGCDs fall within raid buffs.
-
 ### Garuda Opener
 {{< rawhtml >}}
 <img src="/notes/images/smn_ew_fast_garuda.png" width="100%" style="margin: 0em" alt="Fast Garuda Opener">
 {{< /rawhtml >}}
 
 Gain when group is heavy in 15s buffs and you can clip Slipstream under the buff window. Otherwise, use Titan opener below.
-
-{{< rawhtml >}}
-<div class="admonitionDiv">
-	<p class="admonitionEnrageHeader">
-		WARNING
-	</p>
-	<p class="admonitionEnrageBody">
-	The image above is outdated, this sequence <em>only</em> works if you use the 1st GCD Bahamut variation. <br><br> Otherwise, Slipstream is not snapshotted under 15s buffs and the gain is lost.
-	</p>
-</div>
-{{< /rawhtml >}}
 
 ### Titan (General) Opener
 {{< rawhtml >}}

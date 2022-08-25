@@ -32,19 +32,17 @@ title: "Home Page"
 
 # Crafting & Gathering
 ## Crafting
-- [Teamcraft Team invite](https://ffxivteamcraft.com/teams/invite/eyBjfgBIVyvsmvKwLTKI)
-	- [Consumable crafting requests list](https://ffxivteamcraft.com/list/yFAvq110vTZJU12pPcV2)
-		- Please put any food/potions you need on this list, and someone will craft them for you!
 - [Crafting rotation folder](https://ffxivteamcraft.com/rotation-folder/m2FooAcnjVjbey5j0WHC)
-- [B'uzhi's current melds](https://ffxivteamcraft.com/gearset/PRr89Wa3wjpyuKTJql1X)
-	- This set can craft all current recipes in HQ with NQ mats. Rotations that require food/syrup are marked as such.
+- [B'uzhi's current melds](https://ffxivteamcraft.com/gearset/5i76FTtUcRvisVUVGHFu)
+	- This set can craft all current recipes in HQ with only HQ alkahests. Rotations that require food/syrup are marked as such.
 
 ## Gathering
 - Alarm folders:
 	- [Aethersands](https://ffxivteamcraft.com/alarm-group/R7pwoppjFdY4DkCQNaQy)
 	- [White Scrips](https://ffxivteamcraft.com/alarm-group/KrtetKKLZFimeKUntMVy)
 	- [Purple Scrips](https://ffxivteamcraft.com/alarm-group/ZPu9uc51bXAXaIXrYzfu)
-	- [Legendary Nodes (for crafted gear)](https://ffxivteamcraft.com/alarm-group/TNwgPHQxdE0BQdSa2Oi4)
+	- [6.0 Legendary nodes](https://ffxivteamcraft.com/alarm-group/TNwgPHQxdE0BQdSa2Oi4)
+	- [6.2 Legendary nodes](https://ffxivteamcraft.com/alarm-group/V3dZyUFxUuT5WD0nP8Ph)
 
 ## Leveling
 - Leve guides:

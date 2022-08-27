@@ -20,9 +20,6 @@ title: "Home Page"
 - [The Epic of Alexander Ultimate](notes/The%20Epic%20of%20Alexander%20Ultimate)
 - [Dragonsong War Ultimate](notes/Dragonsong%20War%20Ultimate)
 
-## Gear resources
-- [Raid Team gear planning sheet](https://docs.google.com/spreadsheets/d/1SduPOWjmMMq0v6ve52C8xygsJS13auH_k_8uh6X1FkY/edit?usp=sharing)
-
 # Combat Jobs
 - [Tank Resources](notes/Tank%20Resources)
 - [Healer Resources](notes/Healer%20Resources)

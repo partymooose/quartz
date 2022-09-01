@@ -26,6 +26,7 @@ tags:
 ## Gear Sets
 
 ### i630 BiS
+{{< rawhtml >}}
 <iframe 
 		width="90.75%" 
 		height="1000" 
@@ -35,9 +36,10 @@ tags:
 		allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
 		allowfullscreen
 ></iframe>
+{{< /rawhtml >}}
 
 ### i610 Pre-Sav BiS
-
+{{< rawhtml >}}
 <iframe 
 		width="90.75%" 
 		height="1000" 
@@ -47,3 +49,4 @@ tags:
 		allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
 		allowfullscreen
 ></iframe>
+{{< /rawhtml >}}

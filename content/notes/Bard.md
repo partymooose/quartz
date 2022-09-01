@@ -25,4 +25,25 @@ tags:
 
 ## Gear Sets
 
-TBD pending 6.2 gear changes
+### i630 BiS
+<iframe 
+		width="90.75%" 
+		height="1000" 
+		src="https://etro.gg/embed/gearset/2a242f9b-8a41-4d09-9e14-3c8fb08e97e4" 
+		title="2.48 w/o SpS melds" 
+		frameborder="0" 
+		allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+		allowfullscreen
+></iframe>
+
+### i610 Pre-Sav BiS
+
+<iframe 
+		width="90.75%" 
+		height="1000" 
+		src="https://etro.gg/embed/gearset/74dca178-9958-490c-a605-5a4fdb88f1ac" 
+		title="2.48 w/o SpS melds" 
+		frameborder="0" 
+		allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+		allowfullscreen
+></iframe>

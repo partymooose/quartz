@@ -22,7 +22,7 @@ tags:
 		Enrage
 	</p>
 	<p class="admonitionEnrageBody">
-
+		10:00
 	</p>
 </div>
 {{< /rawhtml >}}

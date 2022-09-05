@@ -31,8 +31,8 @@ tags:
 **Chest One** | **Chest Two** 
 ------------ | ------------ 
 1 coffer randomly selected from the following |1 Leg coffer
-	- Head| Radiant Twine
-	- Hand| Radiant Roborant
+	- Head| Tome armor upgrade
+	- Hand| Tome weapon upgrade
 	- Foot| 
 	
 # Strategy Reference

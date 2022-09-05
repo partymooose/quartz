@@ -15,23 +15,28 @@ tags:
 		DPS Check
 	</p>
 	<p class="admonitionDamageBody">
-		
+		53.9k
 	</p>
 
 	<p class="admonitionEnrageHeader">
 		Enrage
 	</p>
 	<p class="admonitionEnrageBody">
-
+		10:39
 	</p>
 </div>
 {{< /rawhtml >}}
 
 ## Drops
-**Chest One** | **Chest Two**
------------- | ------------
+**Chest One** | **Chest Two** 
+------------ | ------------ 
 1 coffer randomly selected from the following |2 unique coffers randomly selected from the following
-
+	- Head| - Head 
+	- Hand| - Hand 
+	- Foot| - Foot 
+  || Tome weapon trade-in
+  || Tome accesory upgrade  
+  
 # Strategy Reference
 
 ---

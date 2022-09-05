@@ -15,23 +15,26 @@ tags:
 		DPS Check
 	</p>
 	<p class="admonitionDamageBody">
-		
+		58.6k
 	</p>
 
 	<p class="admonitionEnrageHeader">
 		Enrage
 	</p>
 	<p class="admonitionEnrageBody">
-
+		11:13
 	</p>
 </div>
 {{< /rawhtml >}}
 
 ## Drops
-**Chest One** | **Chest Two**
------------- | ------------
-1 coffer randomly selected from the following |2 unique coffers randomly selected from the following
-
+**Chest One** | **Chest Two** 
+------------ | ------------ 
+1 coffer randomly selected from the following |1 Leg coffer
+	- Head| Radiant Twine
+	- Hand| Radiant Roborant
+	- Foot| 
+	
 # Strategy Reference
 
 ---

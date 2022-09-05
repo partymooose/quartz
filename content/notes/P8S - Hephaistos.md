@@ -15,14 +15,16 @@ tags:
 		DPS Check
 	</p>
 	<p class="admonitionDamageBody">
-		
+		Part I: 61.6k
+		Part II: 65.3k
 	</p>
 
 	<p class="admonitionEnrageHeader">
 		Enrage
 	</p>
 	<p class="admonitionEnrageBody">
-
+		Part I: 7:52
+		Part II: 8:26
 	</p>
 </div>
 {{< /rawhtml >}}

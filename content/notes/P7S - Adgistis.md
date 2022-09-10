@@ -40,12 +40,27 @@ tags:
 ### Position Setup
 
 {{< rawhtml >}}
-<p class="center"><img src="/notes/images/corner setup.png" width="40%"><img src="/notes/images/spread setup.png" width="40%"></p>
+<p class="center"><img src="/notes/images/corner setup.png" width="40%"><img src="/notes/images/spread setup.png" width="40%" height="537px"></p>
 {{< /rawhtml >}}
 
 ---
 
 # Guide Links
-**The Balance**: 
 
-**Video Guide**: 
+## Hector Lectorson{.center}
+{{< rawhtml >}}
+
+<div class="videoEmbed">
+	<iframe 
+		class="videoFrame"
+		width="100%" 
+		height="100%" 
+		src="https://youtube.com/embed/ALsYpDwW8DU" 
+		title="" 
+		frameborder="0" 
+		allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+		allowfullscreen
+	></iframe>
+</div>
+
+{{< /rawhtml >}}

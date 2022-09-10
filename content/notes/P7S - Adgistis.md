@@ -41,8 +41,6 @@ tags:
 <iframe width="1280" height="720" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTETcrcAqAS98g2zx-BdYmsENIL9iTH6oqPoY_GxcaStl_AM8JdzBIPvUFWrMvoDOOiYVrRiwQ8OGS_/pubhtml?gid=1301999464&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 {{< /rawhtml >}}
 
-{{< rawhtml >}}
-
 ### Position Setup{.center}
 
 {{< rawhtml >}}
@@ -63,7 +61,7 @@ tags:
 ### Bough of Attis{.center}
 
 {{< rawhtml >}}
-<p class="center"><img src="/notes/images/bough of attis.png" width="50%"><img src="/notes/images/bough of attis 2.png" width="50%"></p>
+<p class="center"><img src="/notes/images/bough of attis.png" width="40%"><img src="/notes/images/bough of attis 2.png" width="40%"></p>
 {{< /rawhtml >}}
 
 ### Forbidden Fruit 2{.center}
@@ -99,33 +97,33 @@ tags:
 ### Inviolate Purgation{.center}
 
 {{< rawhtml >}}
-<p class="center"><img src="/notes/images/inviolate purgation.png" width="50%"><img src="/notes/images/inviolate purgation 2.png" width="50%"></p>
+<p class="center"><img src="/notes/images/inviolate purgation.png" width="40%"><img src="/notes/images/inviolate purgation 2.png" width="40%"></p>
 <br>
-<p class="center"><img src="/notes/images/inviolate purgation 3.png" width="50%"><img src="/notes/images/inviolate purgation 4.png" width="50%"></p>
+<p class="center"><img src="/notes/images/inviolate purgation 3.png" width="40%"><img src="/notes/images/inviolate purgation 4.png" width="40%"></p>
 {{< /rawhtml >}}
 
 ### Forbidden Fruit 7{.center}
 
 {{< rawhtml >}}
-<p class="center"><img src="/notes/images/forbidden fruit 7_1.png" width="50%"><img src="/notes/images/forbidden fruit 7_2.png" width="50%"></p>
+<p class="center"><img src="/notes/images/forbidden fruit 7_1.png" width="40%"><img src="/notes/images/forbidden fruit 7_2.png" width="40%"></p>
 {{< /rawhtml >}}
 
 ### Famine's Harvest{.center}
 
 {{< rawhtml >}}
-<p class="center"><img src="/notes/images/famine's harvest 1.png" width="50%"><img src="/notes/images/famine's harvest 2.png" width="50%"></p>
+<p class="center"><img src="/notes/images/famine's harvest 1.png" width="40%"><img src="/notes/images/famine's harvest 2.png" width="40%"></p>
 {{< /rawhtml >}}
 
 ### Death's Harvest{.center}
 
 {{< rawhtml >}}
-<p class="center"><img src="/notes/images/death's harvest 1.png" width="50%"><img src="/notes/images/death's harvest 2.png" width="50%"></p>
+<p class="center"><img src="/notes/images/death's harvest 1.png" width="40%"><img src="/notes/images/death's harvest 2.png" width="40%"></p>
 {{< /rawhtml >}}
 
 ### War's Harvest{.center}
 
 {{< rawhtml >}}
-<p class="center"><img src="/notes/images/war's harvest 1.png" width="50%"><img src="/notes/images/war's harvest 2.png" width="50%"></p>
+<p class="center"><img src="/notes/images/war's harvest 1.png" width="40%"><img src="/notes/images/war's harvest 2.png" width="40%"></p>
 {{< /rawhtml >}}
 
 ### Bough of Attis/Holy III{.center}

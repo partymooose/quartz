@@ -37,6 +37,12 @@ tags:
 	
 # Strategy Reference
 
+### Position Setup
+
+{{< rawhtml >}}
+<p class="center"><img src="/notes/images/corner setup.png" width="40%"><img src="/notes/images/spread setup.png" width="40%"></p>
+{{< /rawhtml >}}
+
 ---
 
 # Guide Links

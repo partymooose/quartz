@@ -41,7 +41,6 @@ tags:
 <iframe frameborder="0" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTETcrcAqAS98g2zx-BdYmsENIL9iTH6oqPoY_GxcaStl_AM8JdzBIPvUFWrMvoDOOiYVrRiwQ8OGS_/pubhtml?gid=1301999464&amp;single=true&amp;widget=true&amp;headers=false"></iframe><br>
 {{< /rawhtml >}}
 
-
 ## Position Setup{.center}
 
 {{< rawhtml >}}

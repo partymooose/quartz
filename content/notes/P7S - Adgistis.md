@@ -94,7 +94,6 @@ tags:
 
 {{< rawhtml >}}
 <p class="center"><img src="/notes/images/inviolate purgation.png" width="40%"><img src="/notes/images/inviolate purgation 2.png" width="40%"></p>
-<br>
 <p class="center"><img src="/notes/images/inviolate purgation 3.png" width="40%"><img src="/notes/images/inviolate purgation 4.png" width="40%"></p>
 {{< /rawhtml >}}
 

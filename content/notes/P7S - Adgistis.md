@@ -41,60 +41,60 @@ tags:
 <iframe width="1280" height="720" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTETcrcAqAS98g2zx-BdYmsENIL9iTH6oqPoY_GxcaStl_AM8JdzBIPvUFWrMvoDOOiYVrRiwQ8OGS_/pubhtml?gid=1301999464&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 {{< /rawhtml >}}
 
-### Position Setup{.center}
+## Position Setup{.center}
 
 {{< rawhtml >}}
 <p class="center"><img src="/notes/images/corner setup.png" width="40%"><img src="/notes/images/spread setup.png" width="40%" height="537px"></p>
 {{< /rawhtml >}}
 
-### Blades of Attis{.center}
+## Blades of Attis{.center}
 {{< rawhtml >}}
 <p class="center"><img src="/notes/images/blades of attis.png" width="60%"></p>
 {{< /rawhtml >}}
 
-### Forbidden Fruit 1{.center}
+## Forbidden Fruit 1{.center}
 
 {{< rawhtml >}}
 <p class="center"><img src="/notes/images/forbidden fruit 1_1.png" width="60%"></p>
 {{< /rawhtml >}}
 
-### Bough of Attis{.center}
+## Bough of Attis{.center}
 
 {{< rawhtml >}}
 <p class="center"><img src="/notes/images/bough of attis.png" width="40%"><img src="/notes/images/bough of attis 2.png" width="40%"></p>
 {{< /rawhtml >}}
 
-### Forbidden Fruit 2{.center}
+## Forbidden Fruit 2{.center}
 
 {{< rawhtml >}}
 <p class="center"><img src="/notes/images/forbidden fruit 2.png" width="60%"></p>
 {{< /rawhtml >}}
 
-### Forbidden Fruit 3{.center}
+## Forbidden Fruit 3{.center}
 
 {{< rawhtml >}}
 <p class="center"><img src="/notes/images/forbidden fruit 3.png" width="60%"></p>
 {{< /rawhtml >}}
 
-### Forbidden Fruit 4{.center}
+## Forbidden Fruit 4{.center}
 
 {{< rawhtml >}}
 <p class="center"><img src="/notes/images/forbidden fruit 4.png" width="60%"></p>
 {{< /rawhtml >}}
 
-### Exaflares{.center}
+## Exaflares{.center}
 
 {{< rawhtml >}}
 <p class="center"><img src="/notes/images/exaflares.png" width="60%"></p>
 {{< /rawhtml >}}
 
-### Forbidden Fruit 5{.center}
+## Forbidden Fruit 5{.center}
 
 {{< rawhtml >}}
 <p class="center"><img src="/notes/images/forbidden fruit 5.png" width="60%"></p>
 {{< /rawhtml >}}
 
-### Inviolate Purgation{.center}
+## Inviolate Purgation{.center}
 
 {{< rawhtml >}}
 <p class="center"><img src="/notes/images/inviolate purgation.png" width="40%"><img src="/notes/images/inviolate purgation 2.png" width="40%"></p>
@@ -102,31 +102,31 @@ tags:
 <p class="center"><img src="/notes/images/inviolate purgation 3.png" width="40%"><img src="/notes/images/inviolate purgation 4.png" width="40%"></p>
 {{< /rawhtml >}}
 
-### Forbidden Fruit 7{.center}
+## Forbidden Fruit 7{.center}
 
 {{< rawhtml >}}
 <p class="center"><img src="/notes/images/forbidden fruit 7_1.png" width="40%"><img src="/notes/images/forbidden fruit 7_2.png" width="40%"></p>
 {{< /rawhtml >}}
 
-### Famine's Harvest{.center}
+## Famine's Harvest{.center}
 
 {{< rawhtml >}}
 <p class="center"><img src="/notes/images/famine's harvest 1.png" width="40%"><img src="/notes/images/famine's harvest 2.png" width="40%"></p>
 {{< /rawhtml >}}
 
-### Death's Harvest{.center}
+## Death's Harvest{.center}
 
 {{< rawhtml >}}
 <p class="center"><img src="/notes/images/death's harvest 1.png" width="40%"><img src="/notes/images/death's harvest 2.png" width="40%"></p>
 {{< /rawhtml >}}
 
-### War's Harvest{.center}
+## War's Harvest{.center}
 
 {{< rawhtml >}}
 <p class="center"><img src="/notes/images/war's harvest 1.png" width="40%"><img src="/notes/images/war's harvest 2.png" width="40%"></p>
 {{< /rawhtml >}}
 
-### Bough of Attis/Holy III{.center}
+## Bough of Attis/Holy III{.center}
 
 {{< rawhtml >}}
 <p class="center"><img src="/notes/images/bough of attis holy III.png" width="60%"></p>

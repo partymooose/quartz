@@ -60,7 +60,7 @@ tags:
 <p class="center"><img src="/notes/images/bough of attis.png" width="40%"><img src="/notes/images/bough of attis 2.png" width="40%"></p>
 {{< /rawhtml >}}
 
-> For this, the red debuff indicates a point-blank AoE that needs to be spread, and the blue debuff indicates a stack marker. These will always be distributed such that Tanks/Healers are in a group, and DPS are in a group, and they will alternate who is stacking or spreading. For example, in these images the debuffs indicate that T/H spread, melee stack, you dodge the Bough of Attis line AoE, and then do the opposite.
+> For this, the red debuff indicates a point-blank AoE that needs to be spread, and the blue debuff indicates a stack marker. These will always be distributed such that Tanks/Healers are in a group, and DPS are in a group, and they will alternate who is stacking or spreading. For example, in these images the debuffs indicate that T/H spread, melee stack, you dodge the Bough of Attis line AoE, and then do the opposite.{.center}
 
 ## Forbidden Fruit 2{.center}
 

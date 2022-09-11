@@ -125,17 +125,11 @@ div.admonitionDiv{
   border-bottom-right-radius: 6px;
   border-top-right-radius: 6px;
   max-width: 15%;
+  @media (min-width: 768px){ display:none; }
 }
 
 #navTOC:hover{
   border-color: var(--gray);
-}
-
-@media (min-width: 768px) {
-
-  #navTOC{
-    display: none;
-  }
 }
 
 .mainTOC{

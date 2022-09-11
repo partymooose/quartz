@@ -124,10 +124,18 @@ div.admonitionDiv{
   box-shadow: 2px 4px 5px black;
   border-bottom-right-radius: 6px;
   border-top-right-radius: 6px;
+  max-width: 15%;
 }
 
 #navTOC:hover{
   border-color: var(--gray);
+}
+
+@media (min-width: 768px) {
+
+  #navTOC{
+    display: none;
+  }
 }
 
 .mainTOC{

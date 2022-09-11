@@ -163,6 +163,12 @@ tags:
 <p class="center"><img src="/notes/images/war's harvest 1.png" width="40%"><img src="/notes/images/war's harvest 2.png" width="40%"></p>
 {{< /rawhtml >}}
 
+### Zoppo Strat (he told me not to call it this but I'm doing it anyways){.center}
+
+{{< rawhtml >}}
+<p class="center"><img src="/notes/images/zoppo of war.png" width="60%"></p>
+{{< /rawhtml >}}
+
 ## Bough of Attis/Holy III{.center}
 
 {{< rawhtml >}}

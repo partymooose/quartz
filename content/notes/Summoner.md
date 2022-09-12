@@ -6,24 +6,24 @@ tags:
 - Caster
 - Summoner
 ---
-## Openers
-### Garuda Opener
+# Openers
+## Garuda Opener
 {{< rawhtml >}}
 <img src="/notes/images/smn_ew_fast_garuda.png" width="100%" style="margin: 0em" alt="Fast Garuda Opener">
 {{< /rawhtml >}}
 
 Gain when group is heavy in 15s buffs and you can clip Slipstream under the buff window. Otherwise, use Titan opener below.
 
-### Titan (General) Opener
+## Titan (General) Opener
 {{< rawhtml >}}
 <img src="/notes/images/smn_ew_opener.png" width="100%" style="margin: 0em">
 {{< /rawhtml >}}
 
-## Gear sets
+# Gear sets
 
 All builds are viable and competitive with each other. Crit builds are better in full uptime scenarios and better at aligning with buffs, but the speed SMN playstyle is still a viable option if you prefer it.
 
-### General builds 
+## General builds 
 {{< rawhtml >}}
 <iframe
 	height="1000"
@@ -48,7 +48,7 @@ All builds are viable and competitive with each other. Crit builds are better in
 
 {{< /rawhtml >}}
 
-### Speed builds 
+## Speed builds 
 {{< rawhtml >}}
 
 <iframe 
@@ -76,7 +76,21 @@ All builds are viable and competitive with each other. Crit builds are better in
 
 {{< /rawhtml >}}
 
-## Optimization
+# Optimization
+
+## Abyssos
+### P5S
+> Use demis on CD, hold SL for after Devour
+
+### P6S
+
+### P7S
+
+### P8S I
+
+### P8S II
+
+## Asphodelos
 ### P1S
 > Standard 100% uptime. Place pet center for both Intemperances so Searing Light will reach everyone, don’t run out too quickly or you’ll miss buffs. Nothing else to mention here!
 

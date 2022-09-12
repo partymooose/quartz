@@ -179,7 +179,7 @@ tags:
 
 # Guide Links
 
-## Hector Lectorson{.center}
+## Hector Hectorson{.center}
 {{< rawhtml >}}
 
 <div class="videoEmbed">

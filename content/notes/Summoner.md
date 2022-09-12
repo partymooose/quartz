@@ -30,7 +30,7 @@ All builds are viable and competitive with each other. Crit builds are better in
 	width="50%"
 	title="2.46 w/ SpS melds"
 	frameborder="0"
-	src="https://etro.gg/embed/gearset/840a5088-23fa-49c5-a12a-3731ca55b4a6"
+	src="https://etro.gg/embed/gearset/750617ed-aad2-42a0-b68a-1f59b2ea035f"
 		></iframe>
 {{< /rawhtml >}}
 
@@ -39,7 +39,7 @@ All builds are viable and competitive with each other. Crit builds are better in
 <iframe 
 		width="49.75%" 
 		height="1000" 
-		src="https://etro.gg/embed/gearset/79f43ffa-6b37-417c-bc24-8b36ea303ee8" 
+		src="https://etro.gg/embed/gearset/b3567b2d-5c92-4ba1-a18a-eb91b614e944" 
 		title="2.48 w/o SpS melds" 
 		frameborder="0" 
 		allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
@@ -54,8 +54,8 @@ All builds are viable and competitive with each other. Crit builds are better in
 <iframe 
 		width="50%" 
 		height="1000" 
-		src="https://etro.gg/embed/gearset/0dc3c04b-07bd-43c5-b07d-e196e93aa29f" 
-		title="2.20 Speed w/ sps melds" 
+		src="https://etro.gg/embed/gearset/cd0105ef-f8fb-4dca-aeb2-7853db4ad27a" 
+		title="2.19 Speed" 
 		frameborder="0" 
 		allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
 		allowfullscreen
@@ -67,8 +67,8 @@ All builds are viable and competitive with each other. Crit builds are better in
 <iframe 
 		width="49.7%" 
 		height="1000" 
-		src="https://etro.gg/embed/gearset/dd37ae1d-6341-4fd0-bc46-d406db34562d" 
-		title="2.25 w/o SpS melds" 
+		src="https://etro.gg/embed/gearset/58739dc7-c265-4874-90e5-dd875eb29dad" 
+		title="2.18" 
 		frameborder="0" 
 		allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
 		allowfullscreen

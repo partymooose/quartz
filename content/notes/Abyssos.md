@@ -16,3 +16,5 @@ toc: false
 - [P8S - Hephaistos](notes/P8S%20-%20Hephaistos)
 
 ## General Tier Info
+
+- [Mitigation sheet](https://docs.google.com/spreadsheets/d/17wLoxHeT04REPSgajrjaWgGsPTvwt10mn4UgyXM8tpw/edit?usp=sharing)

@@ -21,6 +21,6 @@ toc: false
 
 {{< rawhtml >}}
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTETcrcAqAS98g2zx-BdYmsENIL9iTH6oqPoY_GxcaStl_AM8JdzBIPvUFWrMvoDOOiYVrRiwQ8OGS_/pubhtml?widget=true&amp;headers=false" width="100%" height="1250px" margin="auto"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTETcrcAqAS98g2zx-BdYmsENIL9iTH6oqPoY_GxcaStl_AM8JdzBIPvUFWrMvoDOOiYVrRiwQ8OGS_/pubhtml?widget=true&amp;headers=false" width="120%" height="1250px" margin="auto"></iframe>
 
 {{< /rawhtml >}}

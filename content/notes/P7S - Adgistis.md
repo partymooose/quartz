@@ -163,6 +163,12 @@ tags:
 <p class="center"><img src="/notes/images/war harvest better.png" width="60%"></p>
 {{< /rawhtml >}}
 
+## All Harvest Teni Compilation{.center}
+
+{{< rawhtml >}}
+<p class="center"><img src="/notes/images/p7s_diagram.png" width="60%"></p>
+{{< /rawhtml >}}
+
 ## Bough of Attis/Holy III{.center}
 
 {{< rawhtml >}}

@@ -135,7 +135,7 @@ tags:
 ## Death's Harvest{.center}
 
 {{< rawhtml >}}
-<p class="center"><img src="/notes/images/death's harvest 1.png" width="40%"><img src="/notes/images/death's harvest 2.png" width="40%"></p>
+<p class="center"><img src="/notes/images/jp death harvest.png" width="60%"></p>
 {{< /rawhtml >}}
 
 ### JP Tank Invuln Mini-Guide{.center}
@@ -160,13 +160,7 @@ tags:
 ## War's Harvest{.center}
 
 {{< rawhtml >}}
-<p class="center"><img src="/notes/images/war's harvest 1.png" width="40%"><img src="/notes/images/war's harvest 2.png" width="40%"></p>
-{{< /rawhtml >}}
-
-### Zoppo Strat (he told me not to call it this but I'm doing it anyways){.center}
-
-{{< rawhtml >}}
-<p class="center"><img src="/notes/images/zoppo of war.png" width="60%"></p>
+<p class="center"><img src="/notes/images/war harvest better.png" width="60%"></p>
 {{< /rawhtml >}}
 
 ## Bough of Attis/Holy III{.center}

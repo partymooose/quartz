@@ -83,8 +83,11 @@ All builds are viable and competitive with each other. Crit builds are better in
 > Use demis on CD, hold SL for after Devour
 
 ### P6S
+> Full uptime, use all on CD.
 
 ### P7S
+> - Hold SL at 2min window before second Immortal's Obol
+> - Immortal's Obol forces a 1 GCD loss, make sure to take this into account for Demi timing
 
 ### P8S I
 

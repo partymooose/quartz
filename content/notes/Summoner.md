@@ -78,20 +78,31 @@ All builds are viable and competitive with each other. Crit builds are better in
 
 # Optimization
 
+## General Tips
+> - For all fights: **Use Demis on CD, do not delay them, even if this puts you out of sync with party buffs - yes, even your own.**
+> - For all situations with downtime, condense primals by generally cutting abilities in this order:
+>	- R3 < EmRite < Ifrit Melee = RRite = R4 (depends on timing)
+
 ## Abyssos
 ### P5S
-> Use demis on CD, hold SL for after Devour
+> - Use demis on CD, hold SL for after Devour
+> - Using Ifrit 3rd during Ruby Glow 1 will have Crimson Cyclone available while poison puddles are still out - be cautious of this if the pattern provides the smaller safe spot, as using it during this will most likely put you in the poison. Shift Ruin III + IV before CC to adjust without loss.
+> - For buff windows after Devour, try to align Titan into buff windows.
+> - If killtime allows, delay ED for buff windows. 
 
 ### P6S
-> Full uptime, use all on CD.
+> Full uptime, use all on CD. Can pot at 2/8 for 4 Festers, if you kill before 8 use standard 0/6.
 
 ### P7S
 > - Hold SL at 2min window before second Immortal's Obol
 > - Immortal's Obol forces a 1 GCD loss, make sure to take this into account for Demi timing
+> - For slower killtimes (near enrage), 0/5/10 pot timing is optimal with 5 min being used during Phoenix window. If you will not gain a third use, 0/6 as standard.
 
 ### P8S I
+> If snake phase first -> use phoenix before the second leg phase (downtime) and condense primals after the downtime at enrage. Pot at 0/6 mins.
 
 ### P8S II
+> Use phoenix and Energy Drain immediately after High Concept 2. By using both on CD, you will gain an extra use before enrage. Use Searing where your group is using buffs. 
 
 ## Asphodelos
 ### P1S

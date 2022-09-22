@@ -125,6 +125,6 @@ All builds are viable and competitive with each other. Crit builds are better in
 > 100% uptime. Delay Searing Light at Act 2 and Act 4 by 1 GCD and place pet center so Searing Light hits everyone.
 
 ## Links
-- [SMN Gear Calculator](https://docs.google.com/spreadsheets/d/1ndJhvqd1e0IlHFPz9iZK_9PjuOEtly6fLM-j6ldSPa4/edit#gid=0)
+- [SMN Gear Calculator](https://docs.google.com/spreadsheets/d/1v4qZAPwzANTt4sOqkwi75apbjiNPXlNjYtA5NlW6uhM/edit#gid=635680971)
 
 

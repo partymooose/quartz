@@ -81,7 +81,7 @@ All builds are viable and competitive with each other. Crit builds are better in
 ## General Tips
 > - For all fights: **Use Demis on CD, do not delay them, even if this puts you out of sync with party buffs - yes, even your own.**
 > - For all situations with downtime, condense primals by generally cutting abilities in this order:
->	- R3 < EmRite < Ifrit Melee = RRite = R4 (depends on timing)
+>	- $R3 < EmRite < Ifrit\;Melee = RRite = R4 (depends\;on\;timing)$
 
 ## Abyssos
 ### P5S

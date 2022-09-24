@@ -36,9 +36,38 @@ tags:
 
 # Strategy Reference
 
+## Part I
+
+### Illusory Creation/Manifold Flames{.center}
+
+{{< rawhtml >}}
+<p class="center"><img src="/notes/images/manifold flames ns" width="40%">
+<img src="/notes/images/manifold flames ew" width="40%"></p>
+{{< /rawhtml >}}
+
+> Two possible patterns for this, priority is based on your corner partners (so, if your corner is NW, you would go either north or west). Spread with Tank/Melee in, Ranged/Healers out for uptime.
+>
+> Manifold Flames will target either all DPS or all T/H - whichever group gets hit should stack outside the hitbox on the nearest cardinal, and the opposite role should spread inside the hitbox on their intercard corners to bait line AoEs. Getting hit by the first will give a debuff, to simplify seeing who needs to bait.
+
 ---
 
 # Guide Links
-**The Balance**: 
 
-**Video Guide**: 
+## Hector Hectorson{.center}
+
+{{< rawhtml >}}
+
+<div class="videoEmbed">
+	<iframe 
+		class="videoFrame"
+		width="100%" 
+		height="100%" 
+		src="https://youtube.com/embed/3uVG6KOqDX4" 
+		title="" 
+		frameborder="0" 
+		allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+		allowfullscreen
+	></iframe>
+</div>
+
+{{< /rawhtml >}}

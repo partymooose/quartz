@@ -15,7 +15,7 @@ tags:
 		DPS Check
 	</p>
 	<p class="admonitionDamageBody">
-		Part I: 61.6k
+		Part I: 61.6k <br>
 		Part II: 65.3k
 	</p>
 
@@ -23,7 +23,7 @@ tags:
 		Enrage
 	</p>
 	<p class="admonitionEnrageBody">
-		Part I: 7:52
+		Part I: 7:52 <br>
 		Part II: 8:26
 	</p>
 </div>
@@ -47,7 +47,7 @@ tags:
 
 > Two possible patterns for this, priority is based on your corner partners (so, if your corner is NW, you would go either north or west). Spread with Tank/Melee in, Ranged/Healers out for uptime.
 >
-> Manifold Flames will target either all DPS or all T/H - whichever group gets hit should stack outside the hitbox on the nearest cardinal, and the opposite role should spread inside the hitbox on their intercard corners to bait line AoEs. Getting hit by the first will give a debuff, to simplify seeing who needs to bait.
+> Manifold Flames will target either all DPS or all T/H with a point-blank AoE - whichever group gets hit should stack outside the hitbox on the nearest cardinal, and the opposite role should spread inside the hitbox on their intercard corners to bait line AoEs. Getting hit by the first will give a debuff, to simplify seeing who needs to bait.
 
 ---
 

@@ -41,7 +41,7 @@ tags:
 ### Illusory Creation/Manifold Flames{.center}
 
 {{< rawhtml >}}
-<p class="center"><img src="/notes/images/manifold flames ns" width="40%">
+<p class="center"><img src="/notes/images/manifold flames ns.png" width="40%">
 <img src="/notes/images/manifold flames ew" width="40%"></p>
 {{< /rawhtml >}}
 

@@ -42,7 +42,7 @@ tags:
 
 {{< rawhtml >}}
 <p class="center"><img src="/notes/images/manifold flames ns.png" width="40%">
-<img src="/notes/images/manifold flames ew.png" width="40%"></p>
+<img src="/notes/images/manifold flames ew.png" width="40%" height="569px"></p>
 {{< /rawhtml >}}
 
 > Two possible patterns for this, priority is based on your corner partners (so, if your corner is NW, you would go either north or west). Spread with Tank/Melee in, Ranged/Healers out for uptime.

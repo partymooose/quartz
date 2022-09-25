@@ -49,6 +49,12 @@ tags:
 >
 > Manifold Flames will target either all DPS or all T/H with a point-blank AoE - whichever group gets hit should stack outside the hitbox on the nearest cardinal, and the opposite role should spread inside the hitbox on their intercard corners to bait line AoEs. Getting hit by the first will give a debuff, to simplify seeing who needs to bait.
 
+#### Uptime strat{.center}
+
+{{< rawhtml >}}
+<p class="center"><img src="/notes/images/uptime centaur first.jpeg" width="80%"></p>
+{{< /rawhtml >}}
+
 ---
 
 # Guide Links

@@ -15,8 +15,8 @@ tags:
 		DPS Check
 	</p>
 	<p class="admonitionDamageBody">
-		Part I: 61.6k <br>
-		Part II: 65.3k
+		Part I: 59.8k <br>
+		Part II: 64.8k
 	</p>
 
 	<p class="admonitionEnrageHeader">

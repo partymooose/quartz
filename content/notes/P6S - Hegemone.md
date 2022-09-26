@@ -39,6 +39,21 @@ tags:
   
 # Strategy Reference
 
+## Cachexia
+
+### Party Chat macro
+```
+/p ┏━Dual Predation Timers━┓
+/p           Purple    |     Green 
+/p         Baits: 20→8→12→16     
+/p                              
+/p            ↓    ↓   (mid)    
+/p                           
+/p                               
+/p <se.9>
+```
+
+
 ---
 
 # Guide Links

@@ -41,7 +41,7 @@ tags:
 ## Aetheric Polyominoid Cheat Sheet
 
 {{< rawhtml >}}
-<p class="center"><img src="/notes/images/p6s poly cheat sheet.png" width="100%"></p>
+<p class="center"><a href="https://cdn.discordapp.com/attachments/1014266428762902630/1014778690292420670/exchange.png"><img src="/notes/images/p6s poly cheat sheet.png" width="100%"></a></p>
 {{< /rawhtml >}}
 
 ## Cachexia

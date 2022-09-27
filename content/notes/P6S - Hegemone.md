@@ -38,8 +38,36 @@ tags:
   || Tome accesory upgrade  
   
 # Strategy Reference
+## Aetheric Polyominoid Cheat Sheet
+
+{{< rawhtml >}}
+<p class="center"><img src="/notes/images/p6s poly cheat sheet.png" width="80%"></p>
+{{< /rawhtml >}}
 
 ## Cachexia
+
+### Hector Mini-guide{.center}
+
+{{< rawhtml >}}
+
+<div class="videoEmbed">
+	<iframe 
+		class="videoFrame"
+		width="100%" 
+		height="100%" 
+		src="https://youtube.com/embed/0BcE5w2JnrM" 
+		title="" 
+		frameborder="0" 
+		allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+		allowfullscreen
+	></iframe>
+</div>
+
+{{< /rawhtml >}}
+
+> One change from the video, it's easier to have the 20s timers start inside the hitbox in their bait positions, and have 8s timers further up. Once the 12s timers explode, 8s can collapse on the E/W cardinals (standing on top of the 12s) to make room for the 20s timers to move North once they've completed their bait. 
+>
+>The remaining movement is completed as normal, with 8s, then 12s, then 16s going inside to bait their sides and the players who have just baited moving North, before finally swapping sides E/W to handle Ptera Ixou.
 
 ### Party Chat macro
 ```
@@ -57,6 +85,22 @@ tags:
 ---
 
 # Guide Links
-**The Balance**: 
 
-**Video Guide**: 
+## Hector Hectorson{.center}
+
+{{< rawhtml >}}
+
+<div class="videoEmbed">
+	<iframe 
+		class="videoFrame"
+		width="100%" 
+		height="100%" 
+		src="https://youtube.com/embed/d-eNZwVJI8k" 
+		title="" 
+		frameborder="0" 
+		allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+		allowfullscreen
+	></iframe>
+</div>
+
+{{< /rawhtml >}}

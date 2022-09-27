@@ -59,7 +59,7 @@ tags:
 
 # Guide Links
 
-## Hector Hectorson{.center}
+## Hector Hectorson - Part I{.center}
 
 {{< rawhtml >}}
 
@@ -77,3 +77,5 @@ tags:
 </div>
 
 {{< /rawhtml >}}
+
+## Hector Hectorson - Part II

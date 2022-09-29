@@ -41,7 +41,7 @@ tags:
 ## Aetheric Polyominoid Cheat Sheet
 
 {{< rawhtml >}}
-<p class="center"><a href="https://cdn.discordapp.com/attachments/1014266428762902630/1014778690292420670/exchange.png" target="new"><img src="/notes/images/p6s poly cheat sheet.png" width="100%"></a></p>
+<p class="center"><a href="https://cdn.discordapp.com/attachments/1014266428762902630/1014778690292420670/exchange.png" target="new"><img src="/notes/images/p6s poly cheat sheet.png" width="90%"></a></p>
 {{< /rawhtml >}}
 
 (Click for full-size)
@@ -66,6 +66,7 @@ tags:
 </div>
 
 {{< /rawhtml >}}
+
 
 > One change from the video, it's easier to have the 20s timers start inside the hitbox in their bait positions, and have 8s timers further up. Once the 12s timers explode, 8s can collapse on the E/W cardinals (standing on top of the 12s) to make room for the 20s timers to move North once they've completed their bait. 
 >

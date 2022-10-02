@@ -38,8 +38,6 @@ tags:
 
 ## Part I
 
-
-
 ### Illusory Creation/Manifold Flames{.center}
 
 {{< rawhtml >}}
@@ -62,18 +60,53 @@ tags:
 
 {{< rawhtml >}}
 
-<iframe 
-		width="1280" 
-		height="720" 
+<div class="videoEmbed" style="padding-bottom:50%">
+	<iframe 
+		class="videoFrame"
+		width="100%" 
+		height="100%" 
 		src="https://raidplan.io/plan/lxCp5sksgN1zWWKJ" 
 		title="" 
-		frameborder="0" 
-></iframe>
+		frameborder="0"
+	></iframe>
+</div>
 
 {{< /rawhtml >}}
 
 ### Centaur 2
 [Raidplan](https://raidplan.io/plan/ObZNweRZqeKHys2T)
+{{< rawhtml >}}
+
+<div class="videoEmbed" style="padding-bottom:50%">
+	<iframe 
+		class="videoFrame"
+		width="100%" 
+		height="100%" 
+		src="https://raidplan.io/plan/ObZNweRZqeKHys2T" 
+		title="" 
+		frameborder="0"
+	></iframe>
+</div>
+
+{{< /rawhtml >}}
+
+### Snake 2
+[Raidplan](https://raidplan.io/plan/iIg1Tc6iOZ4O8N7V)
+
+{{< rawhtml >}}
+
+<div class="videoEmbed" style="padding-bottom:50%">
+	<iframe 
+		class="videoFrame"
+		width="100%" 
+		height="100%" 
+		src="https://raidplan.io/plan/iIg1Tc6iOZ4O8N7V" 
+		title="" 
+		frameborder="0"
+	></iframe>
+</div>
+
+{{< /rawhtml >}}
 
 ---
 

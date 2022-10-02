@@ -57,6 +57,24 @@ tags:
 <p class="center"><img src="/notes/images/uptime centaur first.jpeg" width="80%"></p>
 {{< /rawhtml >}}
 
+### Fourfold Flames
+[Raidplan](https://raidplan.io/plan/lxCp5sksgN1zWWKJ)
+
+{{< rawhtml >}}
+
+<iframe 
+		width="1280" 
+		height="720" 
+		src="https://raidplan.io/plan/lxCp5sksgN1zWWKJ" 
+		title="" 
+		frameborder="0" 
+></iframe>
+
+{{< /rawhtml >}}
+
+### Centaur 2
+[Raidplan](https://raidplan.io/plan/ObZNweRZqeKHys2T)
+
 ---
 
 # Guide Links

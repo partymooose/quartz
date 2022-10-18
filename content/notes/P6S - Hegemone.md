@@ -48,7 +48,7 @@ tags:
 
 ## Cachexia
 
-### Hector Mini-guide{.center}
+### Better Timer Strat vid{.center}
 
 {{< rawhtml >}}
 
@@ -57,7 +57,7 @@ tags:
 		class="videoFrame"
 		width="100%" 
 		height="100%" 
-		src="https://youtube.com/embed/0BcE5w2JnrM" 
+		src="https://youtube.com/embed/snFmMMNInzQ" 
 		title="" 
 		frameborder="0" 
 		allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 

@@ -110,7 +110,26 @@ tags:
 
 ## PART II
 
+### Natural Alignment
+#### Stack First{.center}
 
+{{< rawhtml >}}
+<p class="center"><img src="/notes/images/na second spread.png" width="60%"></p>
+{{< /rawhtml >}}
+
+#### Fire/Ice options{.center}
+
+{{< rawhtml >}}
+<p class="center"><img src="/notes/images/na-support" width="45%"><img src="/notes/images/na-dps" width="45%"></p>
+{{< /rawhtml >}}
+
+### High Concept 1
+
+{{< rawhtml >}}
+<p class="center"><img src="/notes/images/HC1.png" width="45%"><img src="/notes/images/HC1 towers.png" width="45%"></p>
+<p class="center"><img src="/notes/images/HC1 second elements.png" width="80%"></p>
+<p class="center"><img src="/notes/images/HC_Alchemy.png" width="60%"></p>
+{{< /rawhtml >}}
 
 ---
 

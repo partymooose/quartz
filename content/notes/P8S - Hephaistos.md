@@ -36,7 +36,7 @@ tags:
 
 # Strategy Reference
 
-## Part I
+## PART I
 
 ### Illusory Creation/Manifold Flames{.center}
 
@@ -107,6 +107,10 @@ tags:
 </div>
 
 {{< /rawhtml >}}
+
+## PART II
+
+
 
 ---
 

@@ -125,11 +125,23 @@ tags:
 
 ### High Concept 1
 
+#### First Debuffs{.center}
 {{< rawhtml >}}
-<p class="center"><img src="/notes/images/HC1.png" width="45%"><img src="/notes/images/HC1 towers.png" width="45%"></p>
-<p class="center"><img src="/notes/images/HC1 second elements.png" width="80%"></p>
-<p class="center"><img src="/notes/images/HC_Alchemy.png" width="60%"></p>
+<p class="center"><img src="/notes/images/HC1.png" width="30%"><img src="/notes/images/HC1 towers.png" width="30%"><img src="/notes/images/HC_Alchemy.png" width="30%"></p>
 {{< /rawhtml >}}
+
+>Short timer α, β, and γ debuffs go to markers A, B, and C respectively. The players with the stack markers will stack the 2-person stack on 2 and the 3-person stack on 3. Long timer α, β, and γ debuffs will stack with them, with α stacking with 2, and β and γ stacking with 3.
+>
+>After this resolves, everyone will head towards middle for healing, and 2 of the short debuffs will combine to create a concept matching the tower color, as per the alchemy diagram. Concept players stand in the towers to resolve them, and all players make sure to stay on the side of the arena not being cleaved by the boss. The towers and the cleave will resolve at the same time, so this can be used as a timer - make sure you're relatively close to your next spots while waiting for this to resolve as the next half happens very shortly after.
+
+#### Second Debuffs{.center}
+{{< rawhtml >}}
+<p class="center"><img src="/notes/images/HC1 second elements.png" width="80%"><img src="/notes/images/HC1 second towers.png" width="80%"></p>
+{{< /rawhtml >}}
+
+>After the towers are resolved, concept players will head NW to sit in the free corner. Long debuff players will now go to their marker assignments, same as the first set. The short debuff player whose element was unused will return to their marker and get hit by the second element explosion, while the 2 stack heads for the first open corner moving clockwise from 2, and the 3 stack heads for the first open corner moving counterclockwise from 3. This should resolve with a total of 6 players receiving element debuffs.
+>
+>There will now be 4 towers to resolve. Players with an element matching the towers will combine, with the long debuff players heading to the South towers, and the unused/2 stack/3 stack players heading to the North towers. If your element doesn't match, just hang out on the safe side of the arena away from each other.
 
 ---
 

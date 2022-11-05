@@ -120,7 +120,7 @@ tags:
 #### Fire/Ice options{.center}
 
 {{< rawhtml >}}
-<p class="center"><img src="/notes/images/na-support" width="45%"><img src="/notes/images/na-dps" width="45%"></p>
+<p class="center"><img src="/notes/images/na-support" width="45%"><img src="/notes/images/na-dps.png" width="45%"></p>
 {{< /rawhtml >}}
 
 ### High Concept 1

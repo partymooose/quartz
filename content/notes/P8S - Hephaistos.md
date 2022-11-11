@@ -143,6 +143,31 @@ tags:
 >
 >There will now be 4 towers to resolve. Players with an element matching the towers will combine, with the long debuff players heading to the South towers, and the unused/2 stack/3 stack players heading to the North towers. If your element doesn't match, just hang out on the safe side of the arena away from each other.
 
+#### Flowchart{.center}
+
+{{< rawhtml >}}
+<p class="center"><img src="/notes/images/HC1 flowchart.png" width="60%"></p>
+{{< /rawhtml >}}
+
+#### Raidplan{.center}
+
+{{< rawhtml >}}
+
+<div class="videoEmbed" style="padding-bottom:50%">
+	<iframe 
+		class="videoFrame"
+		width="100%" 
+		height="100%" 
+		src="https://raidplan.io/plan/39S-Q94ejfdrftEg" 
+		title="" 
+		frameborder="0"
+	></iframe>
+</div>
+
+{{< /rawhtml >}}
+
+
+
 ---
 
 # Guide Links

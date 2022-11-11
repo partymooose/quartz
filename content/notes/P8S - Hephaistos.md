@@ -110,7 +110,7 @@ tags:
 
 ## PART II
 
-### Natural Alignment
+### Natural Alignment 1
 #### Stack First{.center}
 
 {{< rawhtml >}}
@@ -166,7 +166,38 @@ tags:
 
 {{< /rawhtml >}}
 
+### Natural Alignment 2
 
+#### Raidplan{.center}
+{{< rawhtml >}}
+
+<div class="videoEmbed" style="padding-bottom:50%">
+	<iframe 
+		class="videoFrame"
+		width="100%" 
+		height="100%" 
+		src="https://raidplan.io/plan/sLkv12h_XlK4I4pF" 
+		title="" 
+		frameborder="0"
+	></iframe>
+</div>
+
+{{< /rawhtml >}}
+
+>For this, stack/spread are resolved in the front 2 lanes (whichever is safe, swapping after) much like the fire/ice phase of NA1. Spread spots are static as listed in the raidplan. Fire/ice are resolved exactly as in NA1.
+
+>The main thing to look out for is Inverse Magicks - one player will have their mechanics resolve opposite of what the filled bars are showing (i.e., if the player that has the Inverse Magicks debuff has their stack bar fill first, the pattern will be spread first, stack second).
+
+
+### High Concept 2
+
+>Gonna put shit here but haven't taken diagram screenies yet hold please
+
+### Dominion
+
+#### Raidplan{.center}
+
+>Spread as outlined in raidplan - 4 players will get hit by an AoE that leaves a debuff. If you DO get hit, chill mid, while the players that didn't get hit chase moving towers to soak them. The priority is supports left, DPS right. After the first towers are soaked, the players that got hit first will bait the second set.
 
 ---
 

@@ -185,6 +185,7 @@ tags:
 {{< /rawhtml >}}
 
 >For this, stack/spread are resolved in the front 2 lanes (whichever is safe, swapping after) much like the fire/ice phase of NA1. Spread spots are static as listed in the raidplan. Fire/ice are resolved exactly as in NA1.
+>
 >The main thing to look out for is Inverse Magicks - one player will have their mechanics resolve opposite of what the filled bars are showing (i.e., if the player that has the Inverse Magicks debuff has their stack bar fill first, the pattern will be spread first, stack second).
 
 
@@ -217,11 +218,17 @@ tags:
 {{< /rawhtml >}}
 
 >Overall, HC2 looks much more complicated than it actually is.
+>
 >For initial positions, you will match your debuff much like HC1. If you have short α, β, or γ, go to your corresponding A, B, or C marker. If you have a 2 person stack OR a long α, β, or γ, go to the 2 market. If you have a 1 person stack, go to the 3 marker. And finally, if you have no debuffs at all, go to the A marker and plan to get hit and then combine to make 2 Ifrit concepts. These will apply a SPICY DoT, so make sure to hang out near the center afterwards as much as you can to receive healing.
+>
 >Next, towers. These resolve just as the first set in HC1, simply combine if your colors match the tower colors and go soak them. Remember which tower N/S you took. Everyone else hang out lightly spread on the safe half.
+>
 >For the second debuff set, long α, β, and γ will again match their A, B, C markers. Everyone else will chill NW to avoid getting hit.
+>
 >Long debuffs and the unused element set will collapse to combine - the collapse is simple, you combine A+B and C+unused, so you stay on the half of the arena you're always on. After combining, soak towers that match.
+>
 >While these players are combining, the players that soaked first towers will bait the adds North/South corresponding to which tower they soaked, and the Ifrit players will bait East/West (no priority, just call it out). Once the tether appears, move 2 squares clockwise and 1 square forward to ensure the resulting beams from the adds will leave the center towers clear. This is unavoidable damage, don't try to dodge after baiting.
+>
 >If you've done everything correctly, congrats! The remaining 2 ifrit players will need to combine with the remaining 2 wind (green) players to create phoenix feathers. Healers will need to ensure the party is at 100% HP before the final phoenix buff applies, or you will wipe. Once this is resolved, you will be reborn after Ego Death and continue into the victory lap with a massive DPS buff.
 
 ### Dominion

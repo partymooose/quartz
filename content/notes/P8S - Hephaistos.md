@@ -210,10 +210,10 @@ tags:
 {{< /rawhtml >}}
 
 {{< rawhtml >}}
-<p class="center"><img src="/notes/images/HC2 initial positions" width="60%"></p>
-<p class="center"><img src="/notes/images/HC2 towers" width="60%"></p>
-<p class="center"><img src="/notes/images/HC2 towers 2" width="60%"></p>
-<p class="center"><img src="/notes/images/HC2 flowchart" width="60%"></p>
+<p class="center"><img src="/notes/images/HC2 initial positions.png" width="60%"></p>
+<p class="center"><img src="/notes/images/HC2 towers.png" width="60%"></p>
+<p class="center"><img src="/notes/images/HC2 towers 2.png" width="60%"></p>
+<p class="center"><img src="/notes/images/HC2 flowchart.png" width="60%"></p>
 {{< /rawhtml >}}
 
 >Overall, HC2 looks much more complicated than it actually is.

@@ -1,0 +1,131 @@
+{
+  "main": {
+    "id": "0169bd52d238350a",
+    "type": "split",
+    "children": [
+      {
+        "id": "b7b96833889a328e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "notes/P6S - Hegemone.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "902824b3c47c18d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "9e88b0f833be5362",
+        "type": "tabs",
+        "dimension": 75.97014925373135,
+        "children": [
+          {
+            "id": "b8de5944c5b6d0f4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c103035ea3755bd4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "78f4fb4260f3518b",
+        "type": "tabs",
+        "dimension": 24.029850746268657,
+        "children": [
+          {
+            "id": "677091bf0a43b565",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 293.5
+  },
+  "right": {
+    "id": "24210e2eea6f6ffe",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee86a216ab717698",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b6edad7899c6dc78",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "notes/P6S - Hegemone.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "948036b2aff747ca",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "b7b96833889a328e",
+  "lastOpenFiles": [
+    "notes/P8S - Hephaistos.md",
+    "templates/insert raidplan.md",
+    "notes/Melee Resources.md",
+    "notes/P6S - Hegemone.md",
+    "notes/White Mage.md",
+    "templates/insert gearset.md",
+    "notes/Bard.md",
+    "notes/Summoner.md",
+    "notes/P7S - Adgistis.md",
+    "notes/Abyssos.md"
+  ]
+}

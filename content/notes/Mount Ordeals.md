@@ -2,6 +2,8 @@
 title: "Mount Ordeals"
 katex: true
 tags:
+- Extreme
+- Endwalker
 
 ---
 Diagram credit: https://game8.jp/ff14/507079

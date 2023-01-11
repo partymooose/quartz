@@ -105,7 +105,7 @@ Diagram credit: https://game8.jp/ff14/507079
 <img src="/notes/images/ex5_flamerake_2.png" width="28%">
 <img src="/notes/images/ex5_flamerake_3.png" width="28%"></p>
 {{< /rawhtml >}}
-### Intercardinals {.c}
+### Intercardinals {.center}
 {{< rawhtml >}}
 <p class="center"><img src="/notes/images/ex5_flamerake_cross_1.png" width="28%">
 <img src="/notes/images/ex5_flamerake_cross_2.png" width="28%">

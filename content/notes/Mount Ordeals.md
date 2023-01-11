@@ -37,7 +37,6 @@ Diagram credit: https://game8.jp/ff14/507079
 {{< /rawhtml >}}
 
 > To know which AoEs are being activated, you will need to trace the blue line maze from the center to the outer edge and see which magic circle that it connects to. As an added complication, the boss will rotate one or more of the circles containing lines 1/8th turn clockwise or counterclockwise, as indicated by the curved arrows that appear on the circles. One major change from the Normal version is that if the outer ring rotates, so do the AoEs, so keep that in mind.
-
 > While this mechanic does happen in multiple different patterns throughout the fight, each instance has some things that are always true that make it easier to resolve each time.
 
 {{< rawhtml >}}
@@ -83,10 +82,8 @@ Diagram credit: https://game8.jp/ff14/507079
 ## Adds Phase
 
 > 6 adds will spawn, 5 small ones and one large one. The large add in center will repeatedly cast raidwides with a stacking fire vuln debuff, so focus it down first. The small add directly north will repeatedly cast random small circle AoEs to dodge on the ground, so take it out second. From there, you can pretty much just go clockwise.
-
 > The two northeast/northwest adds will put out orange tethers that end in a small AoE tankbuster to whoever they're tethered to - tanks should take the tethers and move away from the party.
 > The two southeast/southwest adds will make a purple tether to a random player that ends in a conal cleave from the add - tethered players should point these south outside the arena to avoid cleaving the party.
-
 > Immediately after killing all the adds, Rubicante will become targetable again and begin casting a massive raidwide. Heal, shield, and mit, and prepare for phase 2.
 
 ## Flamerake
@@ -131,7 +128,6 @@ Diagram credit: https://game8.jp/ff14/507079
 ## Flamespire Claw (Everyone will call this Limit Cut but they're wrong)
 
 > Players will receive a number marker on their head from 1 through 8, indicating the order in which they will receive a large conal cleave. While these cleaves are happening, there are 2 persistent grabbable tethers coming from the boss that will give a stacking Flamespire debuff. If you reach 5 stacks, the party will wipe. If you get hit by a cleave while having any debuff stacks, you will die.
-
 > To resolve, the players getting cleaved will wait NW for odd numbers, NE for even numbers, starting with 1 and 2. Players with 7 and 8 will begin taking the tethers.
 > After each player is hit by a cleave, they will move down and grab the tether from the previous players, so the tether order will go 7/8 -> 1/2 -> 3/4 -> 5/6. If you are next in line to be hit, move to the NE/NW spot to take the hit.
 

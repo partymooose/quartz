@@ -20,7 +20,7 @@ title: "Home Page"
 - [The Epic of Alexander Ultimate](notes/The%20Epic%20of%20Alexander%20Ultimate)
 - [Dragonsong War Ultimate](notes/Dragonsong%20War%20Ultimate)
 ### Extreme
-- [Mount Ordeals](notes/Mount Ordeals)
+- [Mount Ordeals](notes/Mount%20Ordeals)
 
 # Combat Jobs
 - [Tank Resources](notes/Tank%20Resources)

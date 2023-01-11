@@ -33,7 +33,7 @@ Diagram credit: https://game8.jp/ff14/507079
 > This mechanic will happen multiple times throughout the fight, with different patterns to solve. Three rings will cover the floor, and magic circles containing either triangles or rectangles will appear at every clock position around the outer edge of the arena. Triangles will correspond to a conal AoE originating from the magic circle and rectangles will correspond to a half-room cleave originating from the magic circle, similar to Exoterikos from EX1.
 
 {{< rawhtml >}}
-<p class="center"><img src="/notes/images/ex5_triangle" width="40%"><img src="/notes/images/ex5_rectangle" width="40%"></p>
+<p class="center"><img src="/notes/images/ex5_triangle.png" width="40%"><img src="/notes/images/ex5_rectangle.png" width="40%"></p>
 {{< /rawhtml >}}
 
 > To know which AoEs are being activated, you will need to trace the blue line maze from the center to the outer edge and see which magic circle that it connects to. As an added complication, the boss will rotate one or more of the circles containing lines 1/8th turn clockwise or counterclockwise, as indicated by the curved arrows that appear on the circles. One major change from the Normal version is that if the outer ring rotates, so do the AoEs, so keep that in mind.
@@ -41,7 +41,7 @@ Diagram credit: https://game8.jp/ff14/507079
 > While this mechanic does happen in multiple different patterns throughout the fight, each instance has some things that are always true that make it easier to resolve each time.
 
 {{< rawhtml >}}
-<p class="center"><img src="/notes/images/ex5_purgations" width="60%"></p>
+<p class="center"><img src="/notes/images/ex5_purgations.png" width="60%"></p>
 {{< /rawhtml >}}
 
 ### 1st Pattern
@@ -97,13 +97,13 @@ Diagram credit: https://game8.jp/ff14/507079
 > - After the second hit, the safe spot will be only in the center of the arena. Puddles will explode at this time, so stay spread in roughly your clock position at max melee.
 
 {{< rawhtml >}}
-<p class="center"><img src="/notes/images/ex5_flamerake_1" width="60%"></p>
+<p class="center"><img src="/notes/images/ex5_flamerake_1.png" width="60%"></p>
 {{< /rawhtml >}}
 {{< rawhtml >}}
-<p class="center"><img src="/notes/images/ex5_flamerake_2" width="60%"></p>
+<p class="center"><img src="/notes/images/ex5_flamerake_2.png" width="60%"></p>
 {{< /rawhtml >}}
 {{< rawhtml >}}
-<p class="center"><img src="/notes/images/ex5_flamerake_3" width="60%"></p>
+<p class="center"><img src="/notes/images/ex5_flamerake_3.png" width="60%"></p>
 {{< /rawhtml >}}
 
 > The flare/stack is also role based, so it will either be DPS in/Support out, or Support in/DPS out.
@@ -121,7 +121,7 @@ Diagram credit: https://game8.jp/ff14/507079
 > The boss will turn and cleave half the arena in front of him. He will also perform two secondary mechanics at the same time - the clones that spawned at the outside of the arena after the previous line AoEs will do a second dash through (if clockspots were done correctly previously, you can use the lines on the floor), and there will either be a stack or spread based on the pattern on his wing. If there is one large flower, stack in one of the safe slices. If there are multiple flowers, spread based on the pattern below:
 
 {{< rawhtml >}}
-<p class="center"><img src="/notes/images/ex5_sweeping_spread" width="60%"></p>
+<p class="center"><img src="/notes/images/ex5_sweeping_spread.png" width="60%"></p>
 {{< /rawhtml >}}
 
 ##  Dualfire
@@ -136,13 +136,13 @@ Diagram credit: https://game8.jp/ff14/507079
 > After each player is hit by a cleave, they will move down and grab the tether from the previous players, so the tether order will go 7/8 -> 1/2 -> 3/4 -> 5/6. If you are next in line to be hit, move to the NE/NW spot to take the hit.
 
 {{< rawhtml >}}
-<p class="center"><img src="/notes/images/ex5_flamespire_1" width="60%"></p>
+<p class="center"><img src="/notes/images/ex5_flamespire_1.png" width="60%"></p>
 {{< /rawhtml >}}
 {{< rawhtml >}}
-<p class="center"><img src="/notes/images/ex5_flamespire_2" width="60%"></p>
+<p class="center"><img src="/notes/images/ex5_flamespire_2.png" width="60%"></p>
 {{< /rawhtml >}}
 {{< rawhtml >}}
-<p class="center"><img src="/notes/images/ex5_flamespire_3" width="60%"></p>
+<p class="center"><img src="/notes/images/ex5_flamespire_3.png" width="60%"></p>
 {{< /rawhtml >}}
 
 > To make the tether acquisition easier, 7 and 8 should start as close to the boss as possible. Odd number players with the tether should bias slightly West, and even number players should bias slightly east, to make it easier for players taking the tethers to know who to take it from.

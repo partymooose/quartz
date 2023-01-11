@@ -19,6 +19,8 @@ title: "Home Page"
 - [Ultimate Coils of Bahamut](Ultimate%20Coils%20of%20Bahamut)
 - [The Epic of Alexander Ultimate](notes/The%20Epic%20of%20Alexander%20Ultimate)
 - [Dragonsong War Ultimate](notes/Dragonsong%20War%20Ultimate)
+### Extreme
+- [Mount Ordeals](notes/Mount Ordeals)
 
 # Combat Jobs
 - [Tank Resources](notes/Tank%20Resources)

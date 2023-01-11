@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Mount Ordeals.md",
+                "file": "_index.md",
                 "mode": "source",
                 "source": true
               }
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Mount Ordeals.md",
+                "file": "_index.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,6 +133,7 @@
   },
   "active": "b7b96833889a328e",
   "lastOpenFiles": [
+    "notes/Mount Ordeals.md",
     "notes/White Mage.md",
     "notes/Ninja.md",
     "notes/P1S - Ericthonios.md",
@@ -141,7 +142,6 @@
     "notes/images/HC1.png",
     "notes/images/HC1 flowchart.png",
     "notes/P6S - Hegemone.md",
-    "templates/insert raidplan.md",
-    "notes/Melee Resources.md"
+    "templates/insert raidplan.md"
   ]
 }

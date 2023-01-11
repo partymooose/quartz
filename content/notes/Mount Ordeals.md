@@ -71,7 +71,11 @@ Diagram credit: https://game8.jp/ff14/507079
 
 > Initial safe spots will always be on intercards. Group 1 goes north, Group 2 goes south. The AoEs around the edge will start moving, forcing you to rotate around the boss constantly for the duration of the mechanic. While these AoEs are moving, 2 of 3 additional mechanics will happen at random. Immediately after the first random mechanic, a line AoE will appear through the boss, just dodge the danger bacon. Immediately after the final circle AoE explodes, there will be a conal cleave from the boss on each player, so get into your clock spots.
 
-### Random Mechanics
+### Random Mechanics {.center}
+
+{{< rawhtml >}}
+<p class="center"><img src="/notes/images/ex5_arch_spread.png" width="28%"><img src="/notes/images/ex5_arch_stack.png" width="28%"><img src="/notes/images/ex5_arch_enumeration.png" width="28%"></p>
+{{< /rawhtml >}}
 
 > 2 of these mechanics will happen at random during Arch Inferno, they're fairly self explanatory:
 >
@@ -82,9 +86,12 @@ Diagram credit: https://game8.jp/ff14/507079
 ## Adds Phase
 
 > 6 adds will spawn, 5 small ones and one large one. The large add in center will repeatedly cast raidwides with a stacking fire vuln debuff, so focus it down first. The small add directly north will repeatedly cast random small circle AoEs to dodge on the ground, so take it out second. From there, you can pretty much just go clockwise.
+>
 > The two northeast/northwest adds will put out orange tethers that end in a small AoE tankbuster to whoever they're tethered to - tanks should take the tethers and move away from the party.
+>
 > The two southeast/southwest adds will make a purple tether to a random player that ends in a conal cleave from the add - tethered players should point these south outside the arena to avoid cleaving the party.
-> Immediately after killing all the adds, Rubicante will become targetable again and begin casting a massive raidwide. Heal, shield, and mit, and prepare for phase 2.
+>
+> Immediately after killing all the adds, Rubicante will become targetable again and begin casting a massive raidwide. Heal, shield, and mitigate, and prepare for phase 2.
 
 ## Flamerake
 
@@ -92,16 +99,22 @@ Diagram credit: https://game8.jp/ff14/507079
 > - Preposition in clock spots and wait for the spinning cross to stop. This will either be pointed in a + shape and hit cardinals, or an X shape and hit intercardinals. If it is hitting your clock spot, rotate clockwise into the safe area.
 > - After the first hit, the safe spots will be in a # shape. If you have a flare debuff, take your flare to the outer edge of the arena in the safe zone to explode. If you have a stack debuff or only one debuff, stack in the center.
 > - After the second hit, the safe spot will be only in the center of the arena. Puddles will explode at this time, so stay spread in roughly your clock position at max melee.
-
+### Cardinals {.center}
 {{< rawhtml >}}
 <p class="center"><img src="/notes/images/ex5_flamerake_1.png" width="28%">
 <img src="/notes/images/ex5_flamerake_2.png" width="28%">
 <img src="/notes/images/ex5_flamerake_3.png" width="28%"></p>
 {{< /rawhtml >}}
+### Intercardinals {.c}
+{{< rawhtml >}}
+<p class="center"><img src="/notes/images/ex5_flamerake_cross_1.png" width="28%">
+<img src="/notes/images/ex5_flamerake_cross_2.png" width="28%">
+<img src="/notes/images/ex5_flamerake_cross_3.png" width="28%"></p>
+{{< /rawhtml >}}
 
 > The flare/stack is also role based, so it will either be DPS in/Support out, or Support in/DPS out.
 
-## Inferno
+### Inferno {.center}
 
 > While Rubicante is cosplaying as Sephiroth, Inferno is a spread mechanic that leaves a bleed debuff, NOT a raidwide. Immediately after resolving Flamerake, just stand in your clockspots and heal up.
 
@@ -109,7 +122,7 @@ Diagram credit: https://game8.jp/ff14/507079
 
 > The mechanic changes based on the castbar name. Scalding Ring will be a donut AoE, and Scalding Signal will be point-blank. At the same time, line AoEs will go out to each player, so to resolve, stand in your clockspots.
 
-## Sweeping Immolation
+### Sweeping Immolation {.center}
 
 > The boss will turn and cleave half the arena in front of him. He will also perform two secondary mechanics at the same time - the clones that spawned at the outside of the arena after the previous line AoEs will do a second dash through (if clockspots were done correctly previously, you can use the lines on the floor), and there will either be a stack or spread based on the pattern on his wing. If there is one large flower, stack in one of the safe slices. If there are multiple flowers, spread based on the pattern below:
 
@@ -117,14 +130,16 @@ Diagram credit: https://game8.jp/ff14/507079
 <p class="center"><img src="/notes/images/ex5_sweeping_spread.png" width="60%"></p>
 {{< /rawhtml >}}
 
-##  Dualfire
+###  Dualfire {.center}
 
 > Simple 100-degree conal tankbuster on both tanks. Tanks will take these NE/NW and mit while party stacks south.
 
 ## Flamespire Claw (Everyone will call this Limit Cut but they're wrong)
 
 > Players will receive a number marker on their head from 1 through 8, indicating the order in which they will receive a large conal cleave. While these cleaves are happening, there are 2 persistent grabbable tethers coming from the boss that will give a stacking Flamespire debuff. If you reach 5 stacks, the party will wipe. If you get hit by a cleave while having any debuff stacks, you will die.
+>
 > To resolve, the players getting cleaved will wait NW for odd numbers, NE for even numbers, starting with 1 and 2. Players with 7 and 8 will begin taking the tethers.
+>
 > After each player is hit by a cleave, they will move down and grab the tether from the previous players, so the tether order will go 7/8 -> 1/2 -> 3/4 -> 5/6. If you are next in line to be hit, move to the NE/NW spot to take the hit.
 
 {{< rawhtml >}}
@@ -134,7 +149,7 @@ Diagram credit: https://game8.jp/ff14/507079
 {{< /rawhtml >}}
 
 > To make the tether acquisition easier, 7 and 8 should start as close to the boss as possible. Odd number players with the tether should bias slightly West, and even number players should bias slightly east, to make it easier for players taking the tethers to know who to take it from.
-
+>
 > Immediately after Flamespire Claw, there will be another spread-form Inferno. From there, mechanics will repeat until enrage.
 
 ---

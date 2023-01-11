@@ -170,6 +170,7 @@ Diagram credit: https://game8.jp/ff14/507079
 
 **Video Guide**: 
 
+## Yukizuri {.center}
 {{< rawhtml >}}
 
 <div class="videoEmbed">

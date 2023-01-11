@@ -26,6 +26,17 @@ Diagram credit: https://game8.jp/ff14/507079
 </div>
 {{< /rawhtml >}}
 
+# Preparation
+
+ - Light Parties (Tank, Healer, Melee, Ranged in each)
+ - Clock spots (Supports cardinal, DPS intercardinal)
+
+ ## Markers {.center}
+
+ {{< rawhtml >}}
+<p class="center"><img src="/notes/images/ex5_markers.png" width="60%"></p>
+{{< /rawhtml >}}
+ 
 # Strategy Reference
 
 ## Purgation

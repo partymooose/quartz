@@ -99,6 +99,7 @@ Diagram credit: https://game8.jp/ff14/507079
 > - Preposition in clock spots and wait for the spinning cross to stop. This will either be pointed in a + shape and hit cardinals, or an X shape and hit intercardinals. If it is hitting your clock spot, rotate clockwise into the safe area.
 > - After the first hit, the safe spots will be in a # shape. If you have a flare debuff, take your flare to the outer edge of the arena in the safe zone to explode. If you have a stack debuff or only one debuff, stack in the center.
 > - After the second hit, the safe spot will be only in the center of the arena. Puddles will explode at this time, so stay spread in roughly your clock position at max melee.
+
 ### Cardinals {.center}
 {{< rawhtml >}}
 <p class="center"><img src="/notes/images/ex5_flamerake_1.png" width="28%">

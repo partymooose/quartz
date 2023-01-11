@@ -79,9 +79,9 @@ Diagram credit: https://game8.jp/ff14/507079
 
 > 2 of these mechanics will happen at random during Arch Inferno, they're fairly self explanatory:
 >
+> - Spread: puddles will drop around you, simply spread out in the safe area DPS left/Support right, with Healers/Ranged taking their spreads further out to allow for uptime.
 > - Stack Markers: groups will stack on healers in their respective sides of the boss
 > - Enumerations: 2-person stacks, Tanks/Melee will stack close to the boss while Healers/Ranged will stack further back
-> - Spread: puddles will drop around you, simply spread out in the safe area DPS left/Support right, with Healers/Ranged taking their spreads further out to allow for uptime.
 
 ## Adds Phase
 

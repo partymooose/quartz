@@ -94,13 +94,9 @@ Diagram credit: https://game8.jp/ff14/507079
 > - After the second hit, the safe spot will be only in the center of the arena. Puddles will explode at this time, so stay spread in roughly your clock position at max melee.
 
 {{< rawhtml >}}
-<p class="center"><img src="/notes/images/ex5_flamerake_1.png" width="60%"></p>
-{{< /rawhtml >}}
-{{< rawhtml >}}
-<p class="center"><img src="/notes/images/ex5_flamerake_2.png" width="60%"></p>
-{{< /rawhtml >}}
-{{< rawhtml >}}
-<p class="center"><img src="/notes/images/ex5_flamerake_3.png" width="60%"></p>
+<p class="center"><img src="/notes/images/ex5_flamerake_1.png" width="28%">
+<img src="/notes/images/ex5_flamerake_2.png" width="28%">
+<img src="/notes/images/ex5_flamerake_3.png" width="28%"></p>
 {{< /rawhtml >}}
 
 > The flare/stack is also role based, so it will either be DPS in/Support out, or Support in/DPS out.
@@ -132,13 +128,9 @@ Diagram credit: https://game8.jp/ff14/507079
 > After each player is hit by a cleave, they will move down and grab the tether from the previous players, so the tether order will go 7/8 -> 1/2 -> 3/4 -> 5/6. If you are next in line to be hit, move to the NE/NW spot to take the hit.
 
 {{< rawhtml >}}
-<p class="center"><img src="/notes/images/ex5_flamespire_1.png" width="60%"></p>
-{{< /rawhtml >}}
-{{< rawhtml >}}
-<p class="center"><img src="/notes/images/ex5_flamespire_2.png" width="60%"></p>
-{{< /rawhtml >}}
-{{< rawhtml >}}
-<p class="center"><img src="/notes/images/ex5_flamespire_3.png" width="60%"></p>
+<p class="center"><img src="/notes/images/ex5_flamespire_1.png" width="28%">
+<img src="/notes/images/ex5_flamespire_2.png" width="28%">
+<img src="/notes/images/ex5_flamespire_3.png" width="28%"></p>
 {{< /rawhtml >}}
 
 > To make the tether acquisition easier, 7 and 8 should start as close to the boss as possible. Odd number players with the tether should bias slightly West, and even number players should bias slightly east, to make it easier for players taking the tethers to know who to take it from.

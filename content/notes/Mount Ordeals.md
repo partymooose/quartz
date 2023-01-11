@@ -80,7 +80,7 @@ Diagram credit: https://game8.jp/ff14/507079
 
 ## Arch Inferno
 
-> Initial safe spots will always be on intercards. Group 1 goes north, Group 2 goes south. The AoEs around the edge will start moving, forcing you to rotate around the boss constantly for the duration of the mechanic. While these AoEs are moving, 2 of 3 additional mechanics will happen at random. Immediately after the first random mechanic, a line AoE will appear through the boss, just dodge the danger bacon. Immediately after the final circle AoE explodes, there will be a conal cleave from the boss on each player, so get into your clock spots.
+> Initial safe spots will always be on intercards. Group 1 goes north, Group 2 goes south. The AoEs around the edge will start moving, forcing you to rotate around the boss constantly for the duration of the mechanic. While these AoEs are moving, 2 of 3 additional mechanics will happen at random. Immediately after the first random mechanic, a line AoE will appear through the boss, just dodge the danger bacon. Immediately after the final circle AoE explodes, there will be a conal cleave from the boss on each player (Radial Flagration is  the cast), so get into your clock spots.
 
 ### Random Mechanics {.center}
 

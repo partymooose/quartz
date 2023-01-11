@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/P8S - Hephaistos.md",
+                "file": "notes/Mount Ordeals.md",
                 "mode": "source",
                 "source": true
               }
@@ -60,11 +60,11 @@
         ]
       },
       {
-        "id": "37892f6aea016e5d",
+        "id": "a03ee52368c0f62f",
         "type": "tabs",
         "children": [
           {
-            "id": "3c4a24b9ad71231d",
+            "id": "474a72ab83e20d27",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -75,7 +75,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 293.5
+    "width": 325.5
   },
   "right": {
     "id": "24210e2eea6f6ffe",
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/P8S - Hephaistos.md",
+                "file": "notes/Mount Ordeals.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,17 +121,27 @@
     "width": 300,
     "collapsed": true
   },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
   "active": "b7b96833889a328e",
   "lastOpenFiles": [
+    "notes/White Mage.md",
+    "notes/Ninja.md",
+    "notes/P1S - Ericthonios.md",
+    "notes/Abyssos.md",
+    "notes/P8S - Hephaistos.md",
     "notes/images/HC1.png",
     "notes/images/HC1 flowchart.png",
-    "notes/P8S - Hephaistos.md",
     "notes/P6S - Hegemone.md",
     "templates/insert raidplan.md",
-    "notes/Melee Resources.md",
-    "notes/White Mage.md",
-    "templates/insert gearset.md",
-    "notes/Bard.md",
-    "notes/Summoner.md"
+    "notes/Melee Resources.md"
   ]
 }

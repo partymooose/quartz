@@ -194,7 +194,7 @@ Diagram credit: https://game8.jp/ff14/507079
 		class="videoFrame"
 		width="100%" 
 		height="100%" 
-		src="https://youtube.com/embed/" 
+		src="https://youtube.com/embed/1_v6v2nmVJ0" 
 		title="" 
 		frameborder="0" 
 		allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 

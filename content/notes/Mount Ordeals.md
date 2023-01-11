@@ -1,3 +1,9 @@
+---
+title: "Mount Ordeals"
+katex: true
+tags:
+
+---
 Diagram credit: https://game8.jp/ff14/507079
 
 # Encounter Info

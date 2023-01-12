@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Summoner.md",
+                "file": "notes/Caster Resources.md",
                 "mode": "source",
                 "source": true
               }
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Summoner.md",
+                "file": "notes/Caster Resources.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,17 +131,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "474a72ab83e20d27",
+  "active": "b7b96833889a328e",
   "lastOpenFiles": [
+    "notes/Healer Resources.md",
     "notes/Mount Ordeals.md",
+    "notes/Summoner.md",
     "notes/P1S - Ericthonios.md",
     "notes/P2S - Hippokampos.md",
     "_index.md",
     "notes/White Mage.md",
     "notes/Ninja.md",
     "notes/Abyssos.md",
-    "notes/P8S - Hephaistos.md",
-    "notes/images/HC1.png",
-    "notes/images/HC1 flowchart.png"
+    "notes/P8S - Hephaistos.md"
   ]
 }

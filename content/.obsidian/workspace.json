@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Caster Resources.md",
+                "file": "notes/Machinist.md",
                 "mode": "source",
                 "source": true
               }
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Caster Resources.md",
+                "file": "notes/Machinist.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,6 +133,8 @@
   },
   "active": "b7b96833889a328e",
   "lastOpenFiles": [
+    "notes/Dragonsong War Ultimate.md",
+    "notes/Caster Resources.md",
     "notes/Healer Resources.md",
     "notes/Mount Ordeals.md",
     "notes/Summoner.md",
@@ -140,8 +142,6 @@
     "notes/P2S - Hippokampos.md",
     "_index.md",
     "notes/White Mage.md",
-    "notes/Ninja.md",
-    "notes/Abyssos.md",
-    "notes/P8S - Hephaistos.md"
+    "notes/Ninja.md"
   ]
 }

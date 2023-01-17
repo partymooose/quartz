@@ -96,6 +96,9 @@ tags:
 {{< /rawhtml >}}
 
 ### Centaur 2
+
+#### Bread Heads Raidplan
+
 [Raidplan](https://raidplan.io/plan/ObZNweRZqeKHys2T)
 {{< rawhtml >}}
 
@@ -111,6 +114,26 @@ tags:
 </div>
 
 {{< /rawhtml >}}
+
+#### Azem's Thighs Save Lives Raidplan
+
+[Raidplan](https://raidplan.io/plan/wTxl_StoYFhINtwM)
+
+{{< rawhtml >}}
+
+<div class="videoEmbed" style="padding-bottom:50%">
+	<iframe 
+		class="videoFrame"
+		width="100%" 
+		height="100%" 
+		src="https://raidplan.io/plan/wTxl_StoYFhINtwM" 
+		title="" 
+		frameborder="0"
+	></iframe>
+</div>
+
+{{< /rawhtml >}}
+
 
 ### Snake 2
 [Raidplan](https://raidplan.io/plan/iIg1Tc6iOZ4O8N7V)

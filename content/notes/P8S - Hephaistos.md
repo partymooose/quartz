@@ -56,6 +56,9 @@ tags:
 {{< /rawhtml >}}
 
 ### Fourfold Flames
+
+#### Bread Heads Raidplan
+
 [Raidplan](https://raidplan.io/plan/lxCp5sksgN1zWWKJ)
 
 {{< rawhtml >}}
@@ -66,6 +69,25 @@ tags:
 		width="100%" 
 		height="100%" 
 		src="https://raidplan.io/plan/lxCp5sksgN1zWWKJ" 
+		title="" 
+		frameborder="0"
+	></iframe>
+</div>
+
+{{< /rawhtml >}}
+
+####Azem's Thighs Save Lives Raidplan
+
+[Raidplan](https://raidplan.io/plan/Go6iHcR024G1E29H)
+
+{{< rawhtml >}}
+
+<div class="videoEmbed" style="padding-bottom:50%">
+	<iframe 
+		class="videoFrame"
+		width="100%" 
+		height="100%" 
+		src="https://raidplan.io/plan/Go6iHcR024G1E29H" 
 		title="" 
 		frameborder="0"
 	></iframe>

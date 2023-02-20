@@ -1,4 +1,4 @@
-Here be my raid notes
+## Here be my raid notes
 
 If you do actually want to contribute information, all of the site content can be found under [content/notes](https://github.com/buzhiamaroh/quartz/tree/hugo/content/notes). My current focus is on hosting strats for Bread Heads and Azem's Thighs Save Lives, but eventually I'll get around to job guides and more in-depth encounter guides as well. 
 

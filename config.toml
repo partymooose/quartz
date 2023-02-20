@@ -1,4 +1,4 @@
-baseURL = "https://notes.buzhi.gay/"
+baseURL = "http://raid.buzhi.gay/"
 languageCode = "en-us"
 googleAnalytics = "G-XYFD95KB4J"
 pygmentsUseClasses = true

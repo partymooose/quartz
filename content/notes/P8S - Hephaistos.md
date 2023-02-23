@@ -156,6 +156,25 @@ tags:
 
 {{< /rawhtml >}}
 
+#### Azem's Thighs Save Lives Raidplan
+
+[Raidplan](https://raidplan.io/plan/Tli_HirIXtjYdBH_)
+
+{{< rawhtml >}}
+
+<div class="videoEmbed" style="padding-bottom:50%">
+	<iframe 
+		class="videoFrame"
+		width="100%" 
+		height="100%" 
+		src="https://raidplan.io/plan/Tli_HirIXtjYdBH_" 
+		title="" 
+		frameborder="0"
+	></iframe>
+</div>
+
+{{< /rawhtml >}}
+
 ## PART II
 
 ### Natural Alignment 1

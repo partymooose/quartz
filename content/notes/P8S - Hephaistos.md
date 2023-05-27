@@ -156,6 +156,25 @@ tags:
 
 {{< /rawhtml >}}
 
+#### Azem's Thighs Save Lives Raidplan
+
+[Raidplan](https://raidplan.io/plan/Tli_HirIXtjYdBH_)
+
+{{< rawhtml >}}
+
+<div class="videoEmbed" style="padding-bottom:50%">
+	<iframe 
+		class="videoFrame"
+		width="100%" 
+		height="100%" 
+		src="https://raidplan.io/plan/WUs-l84QngR8nAvW" 
+		title="" 
+		frameborder="0"
+	></iframe>
+</div>
+
+{{< /rawhtml >}}
+
 ## PART II
 
 ### Natural Alignment 1
@@ -168,7 +187,7 @@ tags:
 #### Fire/Ice options{.center}
 
 {{< rawhtml >}}
-<p class="center"><img src="/notes/images/na-support" width="45%"><img src="/notes/images/na-dps.png" width="45%"></p>
+<p class="center"><img src="/notes/images/na-support.png" width="45%"><img src="/notes/images/na-dps.png" width="45%"></p>
 {{< /rawhtml >}}
 
 ### High Concept 1

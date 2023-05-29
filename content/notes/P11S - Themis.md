@@ -27,11 +27,6 @@ tags:
 </div>
 {{< /rawhtml >}}
 
-## Drops
-**Chest One** | **Chest Two**
------------- | ------------
-1 coffer randomly selected from the following |2 unique coffers randomly selected from the following
-
 # Strategy Reference
 
 ---

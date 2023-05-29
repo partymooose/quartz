@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_index.md",
+                "file": "notes/P9S - Kokytos.md",
                 "mode": "source",
                 "source": true
               }
@@ -56,6 +56,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "f57c6cb86c86d0b2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       },
@@ -91,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_index.md",
+                "file": "notes/P9S - Kokytos.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,15 +140,18 @@
   },
   "active": "7b735f3d0fe1d57f",
   "lastOpenFiles": [
-    "notes/Anabaseios.md",
-    "_index.md",
-    "notes/P12S - Athena.md",
-    "notes/P11S - Themis.md",
     "notes/P10S - Pandæmonium.md",
+    "notes/P11S - Themis.md",
+    "notes/P7S - Adgistis.md",
+    "notes/P6S - Hegemone.md",
     "notes/P9S - Kokytos.md",
+    "notes/P5S - Proto-Carbuncle.md",
+    "_index.md",
+    "notes/desu post.md",
+    "notes/Anabaseios.md",
+    "notes/P12S - Athena.md",
     "notes/P8S - Hephaistos.md",
     "conflict-files-obsidian-git.md",
-    "notes/Mount Ordeals.md",
-    "notes/Dragonsong War Ultimate.md"
+    "notes/Mount Ordeals.md"
   ]
 }
